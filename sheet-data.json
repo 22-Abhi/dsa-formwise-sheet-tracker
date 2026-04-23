@@ -1,0 +1,2684 @@
+{
+  "topics": [
+    {
+      "name": "Binary Search",
+      "subtopics": [
+        {
+          "name": "Binary Search on Answer",
+          "questions": [
+            {
+              "name": "Digits Sequence (Hard Edition)",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Digits+Sequence+(Hard+Edition)+problem"
+            },
+            {
+              "name": "Aggressive cows",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Aggressive+cows+problem"
+            },
+            {
+              "name": "Ugly Number III",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Ugly+Number+III+problem"
+            },
+            {
+              "name": "Pond",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Pond+problem"
+            }
+          ]
+        },
+        {
+          "name": "Binary Search on Every Start",
+          "questions": [
+            {
+              "name": "Minimum Size Subarray Sum",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Minimum+Size+Subarray+Sum+problem"
+            },
+            {
+              "name": "Get Equal Substrings Within Budget",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Get+Equal+Substrings+Within+Budget+problem"
+            }
+          ]
+        },
+        {
+          "name": "Binary Search on Real Domain",
+          "questions": [
+            {
+              "name": "Separate Squares I",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Separate+Squares+I+problem"
+            },
+            {
+              "name": "Sugar Water 2",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Sugar+Water+2+problem"
+            }
+          ]
+        },
+        {
+          "name": "Ternary Search",
+          "questions": [
+            {
+              "name": "Problem E",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Problem+E+problem"
+            },
+            {
+              "name": "Weakness and Poorness",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Weakness+and+Poorness+problem"
+            }
+          ]
+        },
+        {
+          "name": "Mixed Practice",
+          "questions": [
+            {
+              "name": "Kth Excluded",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Kth+Excluded+problem"
+            },
+            {
+              "name": "Hamburgers",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Hamburgers+problem"
+            },
+            {
+              "name": "Handshake",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Handshake+problem"
+            },
+            {
+              "name": "Dist Max 2",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Dist+Max+2+problem"
+            },
+            {
+              "name": "Range Count Query",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Range+Count+Query+problem"
+            },
+            {
+              "name": "K-th Number in the Union of Segments",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=K-th+Number+in+the+Union+of+Segments+problem"
+            },
+            {
+              "name": "Burning Midnight Oil",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Burning+Midnight+Oil+problem"
+            },
+            {
+              "name": "Magnetic Force Between Two Balls",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Magnetic+Force+Between+Two+Balls+problem"
+            },
+            {
+              "name": "Valiant's New Map",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Valiant's+New+Map+problem"
+            },
+            {
+              "name": "Guess the K- th Zero (Easy version)",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Guess+the+K-+th+Zero+(Easy+version)+problem"
+            },
+            {
+              "name": "Minimum Speed to Arrive on Time",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Minimum+Speed+to+Arrive+on+Time+problem"
+            },
+            {
+              "name": "Find Building Where Alice and Bob Can Meet",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Find+Building+Where+Alice+and+Bob+Can+Meet+problem"
+            },
+            {
+              "name": "Maximum Fruits Harvested After at Most K Steps",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Maximum+Fruits+Harvested+After+at+Most+K+Steps+problem"
+            },
+            {
+              "name": "Tripartite Station",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Tripartite+Station+problem"
+            },
+            {
+              "name": "Cellular Network",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Cellular+Network+problem"
+            },
+            {
+              "name": "The Meeting Place Cannot Be Changed",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=The+Meeting+Place+Cannot+Be+Changed+problem"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Two Pointer",
+      "subtopics": [
+        {
+          "name": "Form 0",
+          "questions": [
+            {
+              "name": "Minimum Inversion Count in Subarrays of Fixed Length",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Minimum+Inversion+Count+in+Subarrays+of+Fixed+Length+problem"
+            },
+            {
+              "name": "Sereja and Anagrams",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Sereja+and+Anagrams+problem"
+            }
+          ]
+        },
+        {
+          "name": "Form 1",
+          "questions": [
+            {
+              "name": "Problem E",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Problem+E+problem"
+            },
+            {
+              "name": "Count Subarrays with Cost Less Than or Equal to K",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Count+Subarrays+with+Cost+Less+Than+or+Equal+to+K+problem"
+            },
+            {
+              "name": "Problem C",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Problem+C+problem"
+            },
+            {
+              "name": "Subarrays with K Different Integers",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Subarrays+with+K+Different+Integers+problem"
+            }
+          ]
+        },
+        {
+          "name": "Form 2",
+          "questions": [
+            {
+              "name": "Number of Subsequenc es That Satisfy the Given Sum Condition",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Number+of+Subsequenc+es+That+Satisfy+the+Given+Sum+Condition+problem"
+            },
+            {
+              "name": "Boats to Save People",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Boats+to+Save+People+problem"
+            },
+            {
+              "name": "Pair of Topics",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Pair+of+Topics+problem"
+            }
+          ]
+        },
+        {
+          "name": "Form 3",
+          "questions": [
+            {
+              "name": "Subsequenc e With the Minimum Score",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Subsequenc+e+With+the+Minimum+Score+problem"
+            },
+            {
+              "name": "Most Profit Assigning Work",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Most+Profit+Assigning+Work+problem"
+            },
+            {
+              "name": "Impartial Gift",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Impartial+Gift+problem"
+            }
+          ]
+        },
+        {
+          "name": "Mixed Practice",
+          "questions": [
+            {
+              "name": "Find the Median of the Uniqueness Array",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Find+the+Median+of+the+Uniqueness+Array+problem"
+            },
+            {
+              "name": "Count Subarrays With Score Less Than K",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Count+Subarrays+With+Score+Less+Than+K+problem"
+            },
+            {
+              "name": "K Radius Subarray Averages",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=K+Radius+Subarray+Averages+problem"
+            },
+            {
+              "name": "Minimum Window Substring",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Minimum+Window+Substring+problem"
+            },
+            {
+              "name": "Longest Substring with At Least K Repeating Characters",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Longest+Substring+with+At+Least+K+Repeating+Characters+problem"
+            },
+            {
+              "name": "Exposition",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Exposition+problem"
+            },
+            {
+              "name": "Enough Array",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Enough+Array+problem"
+            },
+            {
+              "name": "Max Value of Equation",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Max+Value+of+Equation+problem"
+            },
+            {
+              "name": "Maximum Number of Robots Within Budget",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Maximum+Number+of+Robots+Within+Budget+problem"
+            },
+            {
+              "name": "Length of the Longest Valid Substring",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Length+of+the+Longest+Valid+Substring+problem"
+            },
+            {
+              "name": "Minimum Subarray Length With Distinct Sum At Least K",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Minimum+Subarray+Length+With+Distinct+Sum+At+Least+K+problem"
+            },
+            {
+              "name": "Count Prime Gap Balanced Subarrays",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Count+Prime+Gap+Balanced+Subarrays+problem"
+            },
+            {
+              "name": "Sliding Window Or",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Sliding+Window+Or+problem"
+            },
+            {
+              "name": "Quiz Master",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Quiz+Master+problem"
+            },
+            {
+              "name": "Vasya and Robot",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Vasya+and+Robot+problem"
+            },
+            {
+              "name": "Sliding Window Mex",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Sliding+Window+Mex+problem"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Recursion Backtracking",
+      "subtopics": [
+        {
+          "name": "DnC",
+          "questions": [
+            {
+              "name": "Caracal vs Monster",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Caracal+vs+Monster+problem"
+            },
+            {
+              "name": "Tower of Hanoi",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Tower+of+Hanoi+problem"
+            }
+          ]
+        },
+        {
+          "name": "Kth Form",
+          "questions": [
+            {
+              "name": "Code For 1",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Code+For+1+problem"
+            },
+            {
+              "name": "Nephren gives a riddle",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Nephren+gives+a+riddle+problem"
+            },
+            {
+              "name": "Christmas",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Christmas+problem"
+            },
+            {
+              "name": "K-th Symbol in Grammar",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=K-th+Symbol+in+Grammar+problem"
+            }
+          ]
+        },
+        {
+          "name": "Backtracking",
+          "questions": [
+            {
+              "name": "Beautiful Arrangement",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Beautiful+Arrangement+problem"
+            },
+            {
+              "name": "Target Sum",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Target+Sum+problem"
+            },
+            {
+              "name": "Ambiguous Coordinates",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Ambiguous+Coordinates+problem"
+            },
+            {
+              "name": "755",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=755+problem"
+            }
+          ]
+        },
+        {
+          "name": "Mixed Practice",
+          "questions": [
+            {
+              "name": "Fractals",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Fractals+problem"
+            },
+            {
+              "name": "Chessboard and Queens",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Chessboard+and+Queens+problem"
+            },
+            {
+              "name": "Partition Array Into Two Equal Product Subsets",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Partition+Array+Into+Two+Equal+Product+Subsets+problem"
+            },
+            {
+              "name": "The k-th Lexicographi cal String of All Happy Strings of Length n",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=The+k-th+Lexicographi+cal+String+of+All+Happy+Strings+of+Length+n+problem"
+            },
+            {
+              "name": "ORXOR",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=ORXOR+problem"
+            },
+            {
+              "name": "Dividing Chocolate",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Dividing+Chocolate+problem"
+            },
+            {
+              "name": "Synthetic Kadomatsu",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Synthetic+Kadomatsu+problem"
+            },
+            {
+              "name": "Red Polyomino",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Red+Polyomino+problem"
+            },
+            {
+              "name": "Split Array into Fibonacci Sequence",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Split+Array+into+Fibonacci+Sequence+problem"
+            },
+            {
+              "name": "Additive Number",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Additive+Number+problem"
+            },
+            {
+              "name": "Fibonacci String",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Fibonacci+String+problem"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Graph",
+      "subtopics": [
+        {
+          "name": "DFS",
+          "questions": [
+            {
+              "name": "Coloring A Border",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Coloring+A+Border+problem"
+            },
+            {
+              "name": "Greatest Common Divisor Traversal",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Greatest+Common+Divisor+Traversal+problem"
+            },
+            {
+              "name": "Maximum Partition Factor",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Maximum+Partition+Factor+problem"
+            },
+            {
+              "name": "Longest Cycle in a Graph",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Longest+Cycle+in+a+Graph+problem"
+            },
+            {
+              "name": "Friend Suggestions",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Friend+Suggestions+problem"
+            }
+          ]
+        },
+        {
+          "name": "BFS",
+          "questions": [
+            {
+              "name": "Word Ladder",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Word+Ladder+problem"
+            },
+            {
+              "name": "Shortest Path with Alternating Colors",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Shortest+Path+with+Alternating+Colors+problem"
+            },
+            {
+              "name": "Sliding Puzzle",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Sliding+Puzzle+problem"
+            },
+            {
+              "name": "Valid BFS?",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Valid+BFS?+problem"
+            },
+            {
+              "name": "Shortest Cycle",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Shortest+Cycle+problem"
+            }
+          ]
+        },
+        {
+          "name": "Topological Ordering",
+          "questions": [
+            {
+              "name": "Strange Printer II",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Strange+Printer+II+problem"
+            },
+            {
+              "name": "Parallel Courses III",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Parallel+Courses+III+problem"
+            },
+            {
+              "name": "Sort Items by Groups Respecting Dependencie s",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Sort+Items+by+Groups+Respecting+Dependencie+s+problem"
+            },
+            {
+              "name": "Shiritori",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Shiritori+problem"
+            },
+            {
+              "name": "Fox And Names",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Fox+And+Names+problem"
+            }
+          ]
+        },
+        {
+          "name": "Shortest Path Algorithm",
+          "questions": [
+            {
+              "name": "Minimum Time to Visit a Cell In a Grid",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Minimum+Time+to+Visit+a+Cell+In+a+Grid+problem"
+            },
+            {
+              "name": "Coins Respawn",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Coins+Respawn+problem"
+            },
+            {
+              "name": "Jzzhu and Cities",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Jzzhu+and+Cities+problem"
+            },
+            {
+              "name": "Rush Hour 2",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Rush+Hour+2+problem"
+            },
+            {
+              "name": "Shortest Path Queries 2",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Shortest+Path+Queries+2+problem"
+            }
+          ]
+        },
+        {
+          "name": "0/1 BFS",
+          "questions": [
+            {
+              "name": "Minimum Cost to Make at Least One Valid Path in a Grid",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Minimum+Cost+to+Make+at+Least+One+Valid+Path+in+a+Grid+problem"
+            },
+            {
+              "name": "KATHTHI",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=KATHTHI+problem"
+            },
+            {
+              "name": "Minimum Obstacle Removal to Reach Corner",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Minimum+Obstacle+Removal+to+Reach+Corner+problem"
+            },
+            {
+              "name": "Stronger Takahashi",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Stronger+Takahashi+problem"
+            },
+            {
+              "name": "Chamber of Secrets",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Chamber+of+Secrets+problem"
+            }
+          ]
+        },
+        {
+          "name": "DSU",
+          "questions": [
+            {
+              "name": "Sum of Maximum Weights",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Sum+of+Maximum+Weights+problem"
+            },
+            {
+              "name": "Making A Large Island",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Making+A+Large+Island+problem"
+            },
+            {
+              "name": "Largest Component Size by Common Factor",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Largest+Component+Size+by+Common+Factor+problem"
+            },
+            {
+              "name": "Remove Max Number of Edges to Keep Graph Fully Traversable",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Remove+Max+Number+of+Edges+to+Keep+Graph+Fully+Traversable+problem"
+            },
+            {
+              "name": "Maximum Distance",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Maximum+Distance+problem"
+            }
+          ]
+        },
+        {
+          "name": "MST",
+          "questions": [
+            {
+              "name": "Hierarchy",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Hierarchy+problem"
+            },
+            {
+              "name": "Built?",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Built?+problem"
+            },
+            {
+              "name": "Shichikuji and Power Grid",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Shichikuji+and+Power+Grid+problem"
+            },
+            {
+              "name": "MST + 1",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=MST+++1+problem"
+            },
+            {
+              "name": "Maximize Spanning Tree Stability with Upgrades",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Maximize+Spanning+Tree+Stability+with+Upgrades+problem"
+            }
+          ]
+        },
+        {
+          "name": "Mixed Practice",
+          "questions": [
+            {
+              "name": "KAIBUNsyo",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=KAIBUNsyo+problem"
+            },
+            {
+              "name": "1 or 2",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=1+or+2+problem"
+            },
+            {
+              "name": "Divide Nodes Into the Maximum Number of Groups",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Divide+Nodes+Into+the+Maximum+Number+of+Groups+problem"
+            },
+            {
+              "name": "Vlad and Unfinished Business",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Vlad+and+Unfinished+Business+problem"
+            },
+            {
+              "name": "Number of Increasing Paths in a Grid",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Number+of+Increasing+Paths+in+a+Grid+problem"
+            },
+            {
+              "name": "Coprocessor",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Coprocessor+problem"
+            },
+            {
+              "name": "Minimum Moves to Move a Box to Their Target Location",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Minimum+Moves+to+Move+a+Box+to+Their+Target+Location+problem"
+            },
+            {
+              "name": "Check if the Rectangle Corner Is Reachable",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Check+if+the+Rectangle+Corner+Is+Reachable+problem"
+            },
+            {
+              "name": "Rank Transform of a Matrix",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Rank+Transform+of+a+Matrix+problem"
+            },
+            {
+              "name": "Range Connect MST",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Range+Connect+MST+problem"
+            },
+            {
+              "name": "Find Critical and Pseudo- Critical Edges in Minimum Spanning Tree",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Find+Critical+and+Pseudo-+Critical+Edges+in+Minimum+Spanning+Tree+problem"
+            },
+            {
+              "name": "Three States",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Three+States+problem"
+            },
+            {
+              "name": "Average Shortest Path",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Average+Shortest+Path+problem"
+            },
+            {
+              "name": "Liars",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Liars+problem"
+            },
+            {
+              "name": "Collision",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Collision+problem"
+            },
+            {
+              "name": "Roads in Berland",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Roads+in+Berland+problem"
+            },
+            {
+              "name": "Travel by Car",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Travel+by+Car+problem"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bit Manipulation",
+      "subtopics": [
+        {
+          "name": "Cyclic Property",
+          "questions": [
+            {
+              "name": "XOR World",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=XOR+World+problem"
+            },
+            {
+              "name": "Counting Bits",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Counting+Bits+problem"
+            },
+            {
+              "name": "Maximum Number That Sum of the Prices Is Less Than or Equal to K",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Maximum+Number+That+Sum+of+the+Prices+Is+Less+Than+or+Equal+to+K+problem"
+            }
+          ]
+        },
+        {
+          "name": "Contribution on Bit",
+          "questions": [
+            {
+              "name": "XXOR",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=XXOR+problem"
+            },
+            {
+              "name": "I hate Matrix Construction",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=I+hate+Matrix+Construction+problem"
+            },
+            {
+              "name": "NR2 - Bhagat The Bit Man",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=NR2+-+Bhagat+The+Bit+Man+problem"
+            }
+          ]
+        },
+        {
+          "name": "Operation Decoding",
+          "questions": [
+            {
+              "name": "Magic Formulas",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Magic+Formulas+problem"
+            },
+            {
+              "name": "Number of Excellent Pairs",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Number+of+Excellent+Pairs+problem"
+            },
+            {
+              "name": "XOR Matching",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=XOR+Matching+problem"
+            }
+          ]
+        },
+        {
+          "name": "MSB to LSB or LSB to MSB",
+          "questions": [
+            {
+              "name": "Bits",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Bits+problem"
+            },
+            {
+              "name": "Little Girl and Maximum XOR",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Little+Girl+and+Maximum+XOR+problem"
+            },
+            {
+              "name": "Minimum Operations to Form Subsequenc e With Target Sum",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Minimum+Operations+to+Form+Subsequenc+e+With+Target+Sum+problem"
+            }
+          ]
+        },
+        {
+          "name": "Mixed Practice",
+          "questions": [
+            {
+              "name": "Mikasa",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Mikasa+problem"
+            },
+            {
+              "name": "Ehab the Xorcist",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Ehab+the+Xorcist+problem"
+            },
+            {
+              "name": "Xor Sum 4",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Xor+Sum+4+problem"
+            },
+            {
+              "name": "Triples with Bitwise AND Equal To Zero",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Triples+with+Bitwise+AND+Equal+To+Zero+problem"
+            },
+            {
+              "name": "The Brand New Function",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=The+Brand+New+Function+problem"
+            },
+            {
+              "name": "Xor Pyramid Peak",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Xor+Pyramid+Peak+problem"
+            },
+            {
+              "name": "Number of Subarrays With AND Value of K",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Number+of+Subarrays+With+AND+Value+of+K+problem"
+            },
+            {
+              "name": "Find Subarray With Bitwise OR Closest to K",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Find+Subarray+With+Bitwise+OR+Closest+to+K+problem"
+            },
+            {
+              "name": "Points and Powers of Two",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Points+and+Powers+of+Two+problem"
+            },
+            {
+              "name": "Count Good Subarrays",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Count+Good+Subarrays+problem"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dynamic Programming",
+      "subtopics": [
+        {
+          "name": "Form 1",
+          "questions": [
+            {
+              "name": "Count Sequences to K",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Count+Sequences+to+K+problem"
+            },
+            {
+              "name": "Maximum Sum of 3 Non- Overlapping Subarrays",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Maximum+Sum+of+3+Non-+Overlapping+Subarrays+problem"
+            },
+            {
+              "name": "Find the Maximum Sequence Value of Array",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Find+the+Maximum+Sequence+Value+of+Array+problem"
+            },
+            {
+              "name": "Picking Goods",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Picking+Goods+problem"
+            },
+            {
+              "name": "Knapsack for All Segments",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Knapsack+for+All+Segments+problem"
+            }
+          ]
+        },
+        {
+          "name": "Form 2",
+          "questions": [
+            {
+              "name": "Longest Unequal Adjacent Groups Subsequenc e II",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Longest+Unequal+Adjacent+Groups+Subsequenc+e+II+problem"
+            },
+            {
+              "name": "Minimum Number of Removals to Make Mountain Array",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Minimum+Number+of+Removals+to+Make+Mountain+Array+problem"
+            },
+            {
+              "name": "Jump Game V",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Jump+Game+V+problem"
+            },
+            {
+              "name": "Greenhouse Effect",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Greenhouse+Effect+problem"
+            },
+            {
+              "name": "Mysterious Present",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Mysterious+Present+problem"
+            }
+          ]
+        },
+        {
+          "name": "Form 3",
+          "questions": [
+            {
+              "name": "Sequence Matching",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Sequence+Matching+problem"
+            },
+            {
+              "name": "Changing a String",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Changing+a+String+problem"
+            },
+            {
+              "name": "Regular Expression Matching",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Regular+Expression+Matching+problem"
+            },
+            {
+              "name": "Armchairs",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Armchairs+problem"
+            },
+            {
+              "name": "Common Subsequenc e",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Common+Subsequenc+e+problem"
+            }
+          ]
+        },
+        {
+          "name": "Form 4",
+          "questions": [
+            {
+              "name": "MIXTURES",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=MIXTURES+problem"
+            },
+            {
+              "name": "Zuma",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Zuma+problem"
+            },
+            {
+              "name": "Make Pair",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Make+Pair+problem"
+            },
+            {
+              "name": "Minimum Cost to Merge Stones",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Minimum+Cost+to+Merge+Stones+problem"
+            },
+            {
+              "name": "Slimes",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Slimes+problem"
+            }
+          ]
+        },
+        {
+          "name": "Form 5",
+          "questions": [
+            {
+              "name": "MCOINS - Coins Game",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=MCOINS+-+Coins+Game+problem"
+            },
+            {
+              "name": "Stone Game III",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Stone+Game+III+problem"
+            },
+            {
+              "name": "Interval Game 2",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Interval+Game+2+problem"
+            },
+            {
+              "name": "ADAGAME - Ada and Game",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=ADAGAME+-+Ada+and+Game+problem"
+            },
+            {
+              "name": "Deque",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Deque+problem"
+            }
+          ]
+        },
+        {
+          "name": "Mixed Practice",
+          "questions": [
+            {
+              "name": "Minimum Removals to Achieve Target XOR",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Minimum+Removals+to+Achieve+Target+XOR+problem"
+            },
+            {
+              "name": "Count The Number of Winning Sequences",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Count+The+Number+of+Winning+Sequences+problem"
+            },
+            {
+              "name": "Minimum Sum of Values by Dividing Array",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Minimum+Sum+of+Values+by+Dividing+Array+problem"
+            },
+            {
+              "name": "Burst Balloons",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Burst+Balloons+problem"
+            },
+            {
+              "name": "Longest Regular Bracket Sequence",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Longest+Regular+Bracket+Sequence+problem"
+            },
+            {
+              "name": "Interleaving String",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Interleaving+String+problem"
+            },
+            {
+              "name": "Catching Cheaters",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Catching+Cheaters+problem"
+            },
+            {
+              "name": "Knight Probability in Chessboard",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Knight+Probability+in+Chessboard+problem"
+            },
+            {
+              "name": "Traveler",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Traveler+problem"
+            },
+            {
+              "name": "Stone Game IV",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Stone+Game+IV+problem"
+            },
+            {
+              "name": "Clear the String",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Clear+the+String+problem"
+            },
+            {
+              "name": "Flipping Signs",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Flipping+Signs+problem"
+            },
+            {
+              "name": "Arithmetic Expressions",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Arithmetic+Expressions+problem"
+            },
+            {
+              "name": "Knapsack for All Subsets",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Knapsack+for+All+Subsets+problem"
+            },
+            {
+              "name": "Number of Ways to Rearrange Sticks With K Sticks Visible",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Number+of+Ways+to+Rearrange+Sticks+With+K+Sticks+Visible+problem"
+            },
+            {
+              "name": "Potion",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Potion+problem"
+            },
+            {
+              "name": "Don't Be a Subsequenc e",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Don't+Be+a+Subsequenc+e+problem"
+            },
+            {
+              "name": "Match Matching",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Match+Matching+problem"
+            },
+            {
+              "name": "TV Game",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=TV+Game+problem"
+            },
+            {
+              "name": "Maximum Height by Stacking Cuboids",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Maximum+Height+by+Stacking+Cuboids+problem"
+            },
+            {
+              "name": "Number of Ways of Cutting a Pizza",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Number+of+Ways+of+Cutting+a+Pizza+problem"
+            },
+            {
+              "name": "Paint House III",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Paint+House+III+problem"
+            },
+            {
+              "name": "Valid Permutation s for DI Sequence",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Valid+Permutation+s+for+DI+Sequence+problem"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "STL",
+      "subtopics": [
+        {
+          "name": "Level 1",
+          "questions": [
+            {
+              "name": "Plug-in",
+              "difficulty": "Easy",
+              "link": "https://www.google.com/search?q=Plug-in+problem"
+            },
+            {
+              "name": "Concert Tickets",
+              "difficulty": "Easy",
+              "link": "https://www.google.com/search?q=Concert+Tickets+problem"
+            },
+            {
+              "name": "List Removals",
+              "difficulty": "Easy",
+              "link": "https://www.google.com/search?q=List+Removals+problem"
+            },
+            {
+              "name": "Write and Erase",
+              "difficulty": "Easy",
+              "link": "https://www.google.com/search?q=Write+and+Erase+problem"
+            },
+            {
+              "name": "Registration system",
+              "difficulty": "Easy",
+              "link": "https://www.google.com/search?q=Registration+system+problem"
+            },
+            {
+              "name": "Swappable",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Swappable+problem"
+            },
+            {
+              "name": "Nearest Smaller Values",
+              "difficulty": "Easy",
+              "link": "https://www.google.com/search?q=Nearest+Smaller+Values+problem"
+            },
+            {
+              "name": "Chat Order",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Chat+Order+problem"
+            },
+            {
+              "name": "Catch Overflow!",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Catch+Overflow!+problem"
+            },
+            {
+              "name": "Replacing",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Replacing+problem"
+            },
+            {
+              "name": "Valeriy and Deque",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Valeriy+and+Deque+problem"
+            },
+            {
+              "name": "Okabe and Boxes",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Okabe+and+Boxes+problem"
+            }
+          ]
+        },
+        {
+          "name": "Level 2",
+          "questions": [
+            {
+              "name": "Longest Balanced Substring II",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Longest+Balanced+Substring+II+problem"
+            },
+            {
+              "name": "LR insertion",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=LR+insertion+problem"
+            },
+            {
+              "name": "Simple String Queries",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Simple+String+Queries+problem"
+            },
+            {
+              "name": "132 Pattern",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=132+Pattern+problem"
+            },
+            {
+              "name": "String Formation",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=String+Formation+problem"
+            },
+            {
+              "name": "Movie Festival",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Movie+Festival+problem"
+            },
+            {
+              "name": "Pair of Balls",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Pair+of+Balls+problem"
+            },
+            {
+              "name": "Snuke's Coloring",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Snuke's+Coloring+problem"
+            },
+            {
+              "name": "Number of Visible People in a Queue",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Number+of+Visible+People+in+a+Queue+problem"
+            },
+            {
+              "name": "Smallest Range Covering Elements from K Lists",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Smallest+Range+Covering+Elements+from+K+Lists+problem"
+            },
+            {
+              "name": "Subarray With Elements Greater Than Varying Threshold",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Subarray+With+Elements+Greater+Than+Varying+Threshold+problem"
+            },
+            {
+              "name": "Special Substrings",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Special+Substrings+problem"
+            }
+          ]
+        },
+        {
+          "name": "Level 3",
+          "questions": [
+            {
+              "name": "Recommend ations",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Recommend+ations+problem"
+            },
+            {
+              "name": "Smart Infants",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Smart+Infants+problem"
+            },
+            {
+              "name": "Two Teams",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Two+Teams+problem"
+            },
+            {
+              "name": "The Skyline Problem",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=The+Skyline+Problem+problem"
+            },
+            {
+              "name": "Find X-Sum of All K-Long Subarrays II",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Find+X-Sum+of+All+K-Long+Subarrays+II+problem"
+            },
+            {
+              "name": "Minimal string",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Minimal+string+problem"
+            },
+            {
+              "name": "Find Building Where Alice and Bob Can Meet",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Find+Building+Where+Alice+and+Bob+Can+Meet+problem"
+            },
+            {
+              "name": "Maximal Rectangle",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Maximal+Rectangle+problem"
+            },
+            {
+              "name": "Pashmak and Parmida's problem",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Pashmak+and+Parmida's+problem+problem"
+            },
+            {
+              "name": "Flip and Rectangles",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Flip+and+Rectangles+problem"
+            },
+            {
+              "name": "OpenStreet Map",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=OpenStreet+Map+problem"
+            },
+            {
+              "name": "Physical Education Lessons",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Physical+Education+Lessons+problem"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Math",
+      "subtopics": [
+        {
+          "name": "Combinatorics",
+          "questions": [
+            {
+              "name": "The Fair Nut and String",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=The+Fair+Nut+and+String+problem"
+            },
+            {
+              "name": "Beautiful Numbers",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Beautiful+Numbers+problem"
+            },
+            {
+              "name": "Colorful Blocks",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Colorful+Blocks+problem"
+            },
+            {
+              "name": "The Intriguing Obsession",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=The+Intriguing+Obsession+problem"
+            },
+            {
+              "name": "aab aba baa",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=aab+aba+baa+problem"
+            },
+            {
+              "name": "Dima and Two Sequences",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Dima+and+Two+Sequences+problem"
+            },
+            {
+              "name": "NEQ",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=NEQ+problem"
+            },
+            {
+              "name": "Roaming",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Roaming+problem"
+            },
+            {
+              "name": "Christmas Party",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Christmas+Party+problem"
+            },
+            {
+              "name": "Placing Rooks",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Placing+Rooks+problem"
+            }
+          ]
+        },
+        {
+          "name": "Number Theory",
+          "questions": [
+            {
+              "name": "Throne",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Throne+problem"
+            },
+            {
+              "name": "Disjoint Set of Common Divisors",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Disjoint+Set+of+Common+Divisors+problem"
+            },
+            {
+              "name": "Counting Divisors",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Counting+Divisors+problem"
+            },
+            {
+              "name": "Longest Subsequenc e",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Longest+Subsequenc+e+problem"
+            },
+            {
+              "name": "Sum of Divisors",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Sum+of+Divisors+problem"
+            },
+            {
+              "name": "Modular Equations",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Modular+Equations+problem"
+            },
+            {
+              "name": "Remainder Minimization 2019",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Remainder+Minimization+2019+problem"
+            },
+            {
+              "name": "Rational Resistance",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Rational+Resistance+problem"
+            },
+            {
+              "name": "Double Factorial",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Double+Factorial+problem"
+            },
+            {
+              "name": "Dima and Lisa",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Dima+and+Lisa+problem"
+            }
+          ]
+        },
+        {
+          "name": "Mixed Practice",
+          "questions": [
+            {
+              "name": "Factorization",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Factorization+problem"
+            },
+            {
+              "name": "Divide Both",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Divide+Both+problem"
+            },
+            {
+              "name": "Infinite Fence",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Infinite+Fence+problem"
+            },
+            {
+              "name": "Not Divisible",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Not+Divisible+problem"
+            },
+            {
+              "name": "Devu and Flowers",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Devu+and+Flowers+problem"
+            },
+            {
+              "name": "Tourist Problem",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Tourist+Problem+problem"
+            },
+            {
+              "name": "Sequence Sum",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Sequence+Sum+problem"
+            },
+            {
+              "name": "Five, Five Everywhere",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Five,+Five+Everywhere+problem"
+            },
+            {
+              "name": "Cheerleader s",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Cheerleader+s+problem"
+            },
+            {
+              "name": "GCD on Blackboard",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=GCD+on+Blackboard+problem"
+            },
+            {
+              "name": "Div Game",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Div+Game+problem"
+            },
+            {
+              "name": "Devu and Birthday Celebration",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Devu+and+Birthday+Celebration+problem"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Contribution Technique & Prefix Sum",
+      "subtopics": [
+        {
+          "name": "Contribution Technique",
+          "questions": [
+            {
+              "name": "Imbalanced Array",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Imbalanced+Array+problem"
+            },
+            {
+              "name": "Maximum and Minimum Sums of at Most Size K Subsequenc es",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Maximum+and+Minimum+Sums+of+at+Most+Size+K+Subsequenc+es+problem"
+            },
+            {
+              "name": "Power of Heroes",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Power+of+Heroes+problem"
+            },
+            {
+              "name": "Maximum Score of a Good Subarray",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Maximum+Score+of+a+Good+Subarray+problem"
+            },
+            {
+              "name": "Sum of Total Strength of Wizards",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Sum+of+Total+Strength+of+Wizards+problem"
+            }
+          ]
+        },
+        {
+          "name": "Prefix Sum",
+          "questions": [
+            {
+              "name": "Good Subarrays",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Good+Subarrays+problem"
+            },
+            {
+              "name": "Subarray Sums II",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Subarray+Sums+II+problem"
+            },
+            {
+              "name": "Forest Queries",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Forest+Queries+problem"
+            },
+            {
+              "name": "Increment Submatrices by One",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Increment+Submatrices+by+One+problem"
+            },
+            {
+              "name": "Stamping the Grid",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Stamping+the+Grid+problem"
+            }
+          ]
+        },
+        {
+          "name": "Mixed Practice",
+          "questions": [
+            {
+              "name": "Number of Submatrices That Sum to Target",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Number+of+Submatrices+That+Sum+to+Target+problem"
+            },
+            {
+              "name": "Maximum and Minimum Sums of at Most Size K Subarrays",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Maximum+and+Minimum+Sums+of+at+Most+Size+K+Subarrays+problem"
+            },
+            {
+              "name": "Max Sum of Rectangle No Larger Than K",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Max+Sum+of+Rectangle+No+Larger+Than+K+problem"
+            },
+            {
+              "name": "Sum of Subsequenc e Widths",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Sum+of+Subsequenc+e+Widths+problem"
+            },
+            {
+              "name": "Star sky",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Star+sky+problem"
+            },
+            {
+              "name": "AtCoder Express 2",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=AtCoder+Express+2+problem"
+            },
+            {
+              "name": "Almost Difference",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Almost+Difference+problem"
+            },
+            {
+              "name": "Snuke Prime",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Snuke+Prime+problem"
+            },
+            {
+              "name": "Count Subarrays With Fixed Bounds",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Count+Subarrays+With+Fixed+Bounds+problem"
+            },
+            {
+              "name": "Gargari and Bishops",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Gargari+and+Bishops+problem"
+            },
+            {
+              "name": "Stable Subarrays With Equal Boundary and Interior Sum",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Stable+Subarrays+With+Equal+Boundary+and+Interior+Sum+problem"
+            },
+            {
+              "name": "Weird Sum",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Weird+Sum+problem"
+            },
+            {
+              "name": "Total Hamming Distance",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Total+Hamming+Distance+problem"
+            },
+            {
+              "name": "Count the Number of Beautiful Subarrays",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Count+the+Number+of+Beautiful+Subarrays+problem"
+            },
+            {
+              "name": "Maximum Subarray Sum II",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Maximum+Subarray+Sum+II+problem"
+            },
+            {
+              "name": "Squared Error",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Squared+Error+problem"
+            },
+            {
+              "name": "Maximum Subarray Sum With Length Divisible by K",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Maximum+Subarray+Sum+With+Length+Divisible+by+K+problem"
+            },
+            {
+              "name": "Make Sum Divisible by P",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Make+Sum+Divisible+by+P+problem"
+            },
+            {
+              "name": "Sum of Absolute Differences in a Sorted Array",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Sum+of+Absolute+Differences+in+a+Sorted+Array+problem"
+            },
+            {
+              "name": "Corporate Flight Bookings",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Corporate+Flight+Bookings+problem"
+            },
+            {
+              "name": "Vowels of All Substrings",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Vowels+of+All+Substrings+problem"
+            },
+            {
+              "name": "Interesting Story",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Interesting+Story+problem"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Trie",
+      "subtopics": [
+        {
+          "name": "Bit Trie",
+          "questions": [
+            {
+              "name": "Maximum XOR subarray",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Maximum+XOR+subarray+problem"
+            },
+            {
+              "name": "Shorten the Array",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Shorten+the+Array+problem"
+            },
+            {
+              "name": "Sausage Maximization",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Sausage+Maximization+problem"
+            },
+            {
+              "name": "XOR Inverse",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=XOR+Inverse+problem"
+            },
+            {
+              "name": "Maximum Subarray XOR with Bounded Range",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Maximum+Subarray+XOR+with+Bounded+Range+problem"
+            }
+          ]
+        },
+        {
+          "name": "String Trie",
+          "questions": [
+            {
+              "name": "Prefix queries",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Prefix+queries+problem"
+            },
+            {
+              "name": "Query On Strings",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Query+On+Strings+problem"
+            },
+            {
+              "name": "Good Substrings",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Good+Substrings+problem"
+            },
+            {
+              "name": "Palindrome Pairs",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Palindrome+Pairs+problem"
+            },
+            {
+              "name": "Prefix and Suffix Search",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Prefix+and+Suffix+Search+problem"
+            }
+          ]
+        },
+        {
+          "name": "Mixed Practice",
+          "questions": [
+            {
+              "name": "Compare string",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Compare+string+problem"
+            },
+            {
+              "name": "A Lot of Games",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=A+Lot+of+Games+problem"
+            },
+            {
+              "name": "Report",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Report+problem"
+            },
+            {
+              "name": "Xor Queries",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Xor+Queries+problem"
+            },
+            {
+              "name": "Gotham PD",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Gotham+PD+problem"
+            },
+            {
+              "name": "Collapsing Strings",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Collapsing+Strings+problem"
+            },
+            {
+              "name": "Search Engine",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Search+Engine+problem"
+            },
+            {
+              "name": "Vasiliy's Multiset",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Vasiliy's+Multiset+problem"
+            },
+            {
+              "name": "XOR-path on tree",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=XOR-path+on+tree+problem"
+            },
+            {
+              "name": "Stream of Characters",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Stream+of+Characters+problem"
+            },
+            {
+              "name": "Nikitosh and xor",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Nikitosh+and+xor+problem"
+            },
+            {
+              "name": "Poem",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Poem+problem"
+            },
+            {
+              "name": "Maximum Genetic Difference Query",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Maximum+Genetic+Difference+Query+problem"
+            },
+            {
+              "name": "Dr. Evil Underscores",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Dr.+Evil+Underscores+problem"
+            },
+            {
+              "name": "Beautiful Substrings",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Beautiful+Substrings+problem"
+            },
+            {
+              "name": "Watto and Mechanism",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Watto+and+Mechanism+problem"
+            },
+            {
+              "name": "Special Subarrays",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Special+Subarrays+problem"
+            },
+            {
+              "name": "SUBXOR - SubXor",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=SUBXOR+-+SubXor+problem"
+            },
+            {
+              "name": "DICT - Search in the dictionary!",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=DICT+-+Search+in+the+dictionary!+problem"
+            },
+            {
+              "name": "Spy Syndrome 2",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Spy+Syndrome+2+problem"
+            },
+            {
+              "name": "Count Pairs With XOR in a Range",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Count+Pairs+With+XOR+in+a+Range+problem"
+            },
+            {
+              "name": "Old Berland Language",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Old+Berland+Language+problem"
+            },
+            {
+              "name": "Short Code",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Short+Code+problem"
+            },
+            {
+              "name": "XOR paths",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=XOR+paths+problem"
+            },
+            {
+              "name": "Mass XOR queries",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Mass+XOR+queries+problem"
+            },
+            {
+              "name": "The ancient book",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=The+ancient+book+problem"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "String",
+      "subtopics": [
+        {
+          "name": "KMP or Z Algorithm",
+          "questions": [
+            {
+              "name": "Password",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Password+problem"
+            },
+            {
+              "name": "Prefixes and Suffixes",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Prefixes+and+Suffixes+problem"
+            },
+            {
+              "name": "Number of Subarrays That Match a Pattern II",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Number+of+Subarrays+That+Match+a+Pattern+II+problem"
+            },
+            {
+              "name": "Strings of Eternity",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Strings+of+Eternity+problem"
+            },
+            {
+              "name": "Finding Periods",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Finding+Periods+problem"
+            }
+          ]
+        },
+        {
+          "name": "Hashing",
+          "questions": [
+            {
+              "name": "Longest Duplicate Substring",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Longest+Duplicate+Substring+problem"
+            },
+            {
+              "name": "Kefa and Watch",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Kefa+and+Watch+problem"
+            },
+            {
+              "name": "Palindrome Queries",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Palindrome+Queries+problem"
+            },
+            {
+              "name": "Watto and Mechanism",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Watto+and+Mechanism+problem"
+            },
+            {
+              "name": "ABCBAC",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=ABCBAC+problem"
+            }
+          ]
+        },
+        {
+          "name": "Manacher's Algorithm",
+          "questions": [
+            {
+              "name": "Prefix-Suffix Palindrome (Hard version)",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Prefix-Suffix+Palindrome+(Hard+version)+problem"
+            },
+            {
+              "name": "Palindromic Border",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Palindromic+Border+problem"
+            },
+            {
+              "name": "Palindrome Partitioning IV",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Palindrome+Partitioning+IV+problem"
+            },
+            {
+              "name": "Maximum Number of Non- overlapping Palindrome Substrings",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Maximum+Number+of+Non-+overlapping+Palindrome+Substrings+problem"
+            },
+            {
+              "name": "Enumerate Palindromes",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Enumerate+Palindromes+problem"
+            }
+          ]
+        },
+        {
+          "name": "Mixed Practice",
+          "questions": [
+            {
+              "name": "EPALIN - Extend to Palindrome",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=EPALIN+-+Extend+to+Palindrome+problem"
+            },
+            {
+              "name": "Finding Borders",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Finding+Borders+problem"
+            },
+            {
+              "name": "MUH and Cube Walls",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=MUH+and+Cube+Walls+problem"
+            },
+            {
+              "name": "Longest Common Subpath",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Longest+Common+Subpath+problem"
+            },
+            {
+              "name": "Repeating Substring",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Repeating+Substring+problem"
+            },
+            {
+              "name": "Compress Words",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Compress+Words+problem"
+            },
+            {
+              "name": "Distinct Echo Substrings",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Distinct+Echo+Substrings+problem"
+            },
+            {
+              "name": "Games on a CD",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Games+on+a+CD+problem"
+            },
+            {
+              "name": "Petr#",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Petr#+problem"
+            },
+            {
+              "name": "Om Nom and Necklace",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Om+Nom+and+Necklace+problem"
+            },
+            {
+              "name": "Sonya and Matrix Beauty",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Sonya+and+Matrix+Beauty+problem"
+            },
+            {
+              "name": "Queries for Number of Palindromes",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Queries+for+Number+of+Palindromes+problem"
+            },
+            {
+              "name": "Anthem of Berland",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Anthem+of+Berland+problem"
+            },
+            {
+              "name": "NUMOFPAL - Number of Palindromes",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=NUMOFPAL+-+Number+of+Palindromes+problem"
+            },
+            {
+              "name": "Check if DFS Strings Are Palindromes",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Check+if+DFS+Strings+Are+Palindromes+problem"
+            },
+            {
+              "name": "String Compression",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=String+Compression+problem"
+            },
+            {
+              "name": "Palindrome Degree",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Palindrome+Degree+problem"
+            },
+            {
+              "name": "TEST",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=TEST+problem"
+            },
+            {
+              "name": "Check Transcriptio n",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Check+Transcriptio+n+problem"
+            },
+            {
+              "name": "Palindromic characteristi cs",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Palindromic+characteristi+cs+problem"
+            },
+            {
+              "name": "Who Says a Pun?",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Who+Says+a+Pun?+problem"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Segment Tree",
+      "subtopics": [
+        {
+          "name": "Basic Point Updates & Range Queries",
+          "questions": [
+            {
+              "name": "Xenia and Bit Operations",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Xenia+and+Bit+Operations+problem"
+            },
+            {
+              "name": "Sereja and Brackets",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Sereja+and+Brackets+problem"
+            },
+            {
+              "name": "GSS3 - Can you answer these queries III",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=GSS3+-+Can+you+answer+these+queries+III+problem"
+            },
+            {
+              "name": "Distinct Characters Queries",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Distinct+Characters+Queries+problem"
+            },
+            {
+              "name": "Messenger Simulator",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Messenger+Simulator+problem"
+            }
+          ]
+        },
+        {
+          "name": "Lazy Propagation & Range Updates",
+          "questions": [
+            {
+              "name": "HORRIBLE - Horrible Queries",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=HORRIBLE+-+Horrible+Queries+problem"
+            },
+            {
+              "name": "Range Module",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Range+Module+problem"
+            },
+            {
+              "name": "Anton and Tree",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Anton+and+Tree+problem"
+            },
+            {
+              "name": "MULTQ3 - Multiples of 3",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=MULTQ3+-+Multiples+of+3+problem"
+            },
+            {
+              "name": "Polynomial Queries",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Polynomial+Queries+problem"
+            }
+          ]
+        },
+        {
+          "name": "Kth Type & Merge Sort Tree",
+          "questions": [
+            {
+              "name": "K-query",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=K-query+problem"
+            },
+            {
+              "name": "The k-th number",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=The+k-th+number+problem"
+            },
+            {
+              "name": "List Removals",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=List+Removals+problem"
+            },
+            {
+              "name": "Enemy is weak",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Enemy+is+weak+problem"
+            },
+            {
+              "name": "One Occurrence",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=One+Occurrence+problem"
+            }
+          ]
+        },
+        {
+          "name": "Coordinate Compression & Offline Queries",
+          "questions": [
+            {
+              "name": "Rectangle Area II",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Rectangle+Area+II+problem"
+            },
+            {
+              "name": "Salary Queries",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Salary+Queries+problem"
+            },
+            {
+              "name": "Water Tree",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Water+Tree+problem"
+            },
+            {
+              "name": "Points",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Points+problem"
+            },
+            {
+              "name": "Petya and Array",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Petya+and+Array+problem"
+            }
+          ]
+        },
+        {
+          "name": "Mixed Practice",
+          "questions": [
+            {
+              "name": "Count Substrings That Satisfy K-Constraint II",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Count+Substrings+That+Satisfy+K-Constraint+II+problem"
+            },
+            {
+              "name": "Palindromic Path Queries in a Tree",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Palindromic+Path+Queries+in+a+Tree+problem"
+            },
+            {
+              "name": "A Simple Task",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=A+Simple+Task+problem"
+            },
+            {
+              "name": "Separate Squares II",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Separate+Squares+II+problem"
+            },
+            {
+              "name": "Subtree Minimum Query",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Subtree+Minimum+Query+problem"
+            },
+            {
+              "name": "Pizzeria Queries",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Pizzeria+Queries+problem"
+            },
+            {
+              "name": "Handling Sum Queries After Update",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Handling+Sum+Queries+After+Update+problem"
+            },
+            {
+              "name": "Smaller Sum",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Smaller+Sum+problem"
+            },
+            {
+              "name": "The Skyline Problem",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=The+Skyline+Problem+problem"
+            },
+            {
+              "name": "INCSEQ - Increasing Sequences",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=INCSEQ+-+Increasing+Sequences+problem"
+            },
+            {
+              "name": "Ball",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Ball+problem"
+            },
+            {
+              "name": "Zip-line",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Zip-line+problem"
+            },
+            {
+              "name": "Fancy Sequence",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Fancy+Sequence+problem"
+            },
+            {
+              "name": "Prefix Sum Queries",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Prefix+Sum+Queries+problem"
+            },
+            {
+              "name": "LITE - Light Switching",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=LITE+-+Light+Switching+problem"
+            },
+            {
+              "name": "My Calendar III",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=My+Calendar+III+problem"
+            },
+            {
+              "name": "Count of Smaller Numbers After Self",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Count+of+Smaller+Numbers+After+Self+problem"
+            },
+            {
+              "name": "Greedy Shopping",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Greedy+Shopping+problem"
+            },
+            {
+              "name": "Restore Permutation",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Restore+Permutation+problem"
+            },
+            {
+              "name": "KGSS - Maximum Variance Segment Tree",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=KGSS+-+Maximum+Variance+Segment+Tree+problem"
+            },
+            {
+              "name": "Pashmak and Parmida's problem",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Pashmak+and+Parmida's+problem+problem"
+            },
+            {
+              "name": "Please, another Queries on Array",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Please,+another+Queries+on+Array+problem"
+            },
+            {
+              "name": "Army Creation",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Army+Creation+problem"
+            },
+            {
+              "name": "Hotel Queries",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Hotel+Queries+problem"
+            },
+            {
+              "name": "Second Largest Query",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Second+Largest+Query+problem"
+            },
+            {
+              "name": "NICEDAY - The day of the competitors",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=NICEDAY+-+The+day+of+the+competitors+problem"
+            },
+            {
+              "name": "Alone",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Alone+problem"
+            },
+            {
+              "name": "Number of Pairs Satisfying Inequality",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Number+of+Pairs+Satisfying+Inequality+problem"
+            },
+            {
+              "name": "Distance Queries on a Tree",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Distance+Queries+on+a+Tree+problem"
+            },
+            {
+              "name": "Operations on a Matrix",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Operations+on+a+Matrix+problem"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tree",
+      "subtopics": [
+        {
+          "name": "Fundamental Ideas",
+          "questions": [
+            {
+              "name": "Subordinate s",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Subordinate+s+problem"
+            },
+            {
+              "name": "Tree Matching",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Tree+Matching+problem"
+            },
+            {
+              "name": "Journey",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Journey+problem"
+            },
+            {
+              "name": "Tree Cutting (Easy Version)",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Tree+Cutting+(Easy+Version)+problem"
+            },
+            {
+              "name": "Sum in the tree",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Sum+in+the+tree+problem"
+            },
+            {
+              "name": "Tree Queries",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Tree+Queries+problem"
+            },
+            {
+              "name": "Gardener and Tree",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Gardener+and+Tree+problem"
+            },
+            {
+              "name": "Tree Diameter",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Tree+Diameter+problem"
+            },
+            {
+              "name": "PT07Z - Longest path in a tree",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=PT07Z+-+Longest+path+in+a+tree+problem"
+            },
+            {
+              "name": "Minimum Height Trees",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Minimum+Height+Trees+problem"
+            },
+            {
+              "name": "Tree Tag",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Tree+Tag+problem"
+            },
+            {
+              "name": "A Wide, Wide Graph",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=A+Wide,+Wide+Graph+problem"
+            },
+            {
+              "name": "The Fair Nut and the Best Path",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=The+Fair+Nut+and+the+Best+Path+problem"
+            },
+            {
+              "name": "Tree Restoring",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Tree+Restoring+problem"
+            },
+            {
+              "name": "Three Paths on a Tree",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Three+Paths+on+a+Tree+problem"
+            },
+            {
+              "name": "Maximum Distributed Tree",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Maximum+Distributed+Tree+problem"
+            },
+            {
+              "name": "Sum of Maximum Weights",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Sum+of+Maximum+Weights+problem"
+            },
+            {
+              "name": "Imbalance Value of a Tree",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Imbalance+Value+of+a+Tree+problem"
+            },
+            {
+              "name": "Count Valid Paths in a Tree",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Count+Valid+Paths+in+a+Tree+problem"
+            }
+          ]
+        },
+        {
+          "name": "Intermediate Ideas",
+          "questions": [
+            {
+              "name": "Vasya and a Tree",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Vasya+and+a+Tree+problem"
+            },
+            {
+              "name": "Tree of Coprimes",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Tree+of+Coprimes+problem"
+            },
+            {
+              "name": "Maximum Genetic Difference Query",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Maximum+Genetic+Difference+Query+problem"
+            },
+            {
+              "name": "Kefa and Park",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Kefa+and+Park+problem"
+            },
+            {
+              "name": "Company Queries I",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Company+Queries+I+problem"
+            },
+            {
+              "name": "Company Queries II",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Company+Queries+II+problem"
+            },
+            {
+              "name": "Blood Cousins",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Blood+Cousins+problem"
+            },
+            {
+              "name": "Misha, Grisha and Underground",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Misha,+Grisha+and+Underground+problem"
+            },
+            {
+              "name": "A and B and Lecture Rooms",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=A+and+B+and+Lecture+Rooms+problem"
+            },
+            {
+              "name": "Tree Distances II",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Tree+Distances+II+problem"
+            },
+            {
+              "name": "Maximum White Subtree",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Maximum+White+Subtree+problem"
+            },
+            {
+              "name": "Tree Painting",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Tree+Painting+problem"
+            },
+            {
+              "name": "Subtree",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Subtree+problem"
+            },
+            {
+              "name": "Capital City",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Capital+City+problem"
+            },
+            {
+              "name": "Ki",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Ki+problem"
+            },
+            {
+              "name": "Fools and Roads",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Fools+and+Roads+problem"
+            },
+            {
+              "name": "Alyona and a Tree",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Alyona+and+a+Tree+problem"
+            },
+            {
+              "name": "Through Path",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Through+Path+problem"
+            }
+          ]
+        },
+        {
+          "name": "Advanced Ideas",
+          "questions": [
+            {
+              "name": "Palindromic Path Queries in a Tree",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Palindromic+Path+Queries+in+a+Tree+problem"
+            },
+            {
+              "name": "Subtree Queries",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Subtree+Queries+problem"
+            },
+            {
+              "name": "Water Tree",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Water+Tree+problem"
+            },
+            {
+              "name": "New Year Tree",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=New+Year+Tree+problem"
+            },
+            {
+              "name": "Danil and a Part-time Job",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Danil+and+a+Part-time+Job+problem"
+            },
+            {
+              "name": "Propagating tree",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Propagating+tree+problem"
+            },
+            {
+              "name": "Path Queries",
+              "difficulty": "Medium",
+              "link": "https://www.google.com/search?q=Path+Queries+problem"
+            },
+            {
+              "name": "Distance Queries on a Tree",
+              "difficulty": "Extreme",
+              "link": "https://www.google.com/search?q=Distance+Queries+on+a+Tree+problem"
+            },
+            {
+              "name": "On Changing Tree",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=On+Changing+Tree+problem"
+            },
+            {
+              "name": "Count Descendants",
+              "difficulty": "Hard",
+              "link": "https://www.google.com/search?q=Count+Descendants+problem"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
