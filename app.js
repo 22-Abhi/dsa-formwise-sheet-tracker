@@ -1,11 +1,16 @@
 const app = document.getElementById("app");
 const searchInput = document.getElementById("searchInput");
 const themeToggle = document.getElementById("themeToggle");
+const DATA_VERSION = "20260423-3";
 
 let allTopics = [];
 const THEME_KEY = "dsa-sheet-theme";
 const STATUS_KEY = "dsa-sheet-status-map";
 let statusMap = {};
+
+function questionTitle(question) {
+  return question.title || question.name || "Untitled Question";
+}
 
 function applyTheme(theme) {
   const isDark = theme === "dark";
@@ -32,14 +37,25 @@ function questionId(topicName, subtopicName, questionName) {
   return `${safeKey(topicName)}::${safeKey(subtopicName)}::${safeKey(questionName)}`;
 }
 
-function directQuestionLink(rawLink, questionName) {
+function directQuestionLink(rawLink) {
   if (!rawLink) {
-    return `https://www.google.com/search?btnI=1&q=${encodeURIComponent(`${questionName} problem`)}`;
+    return "";
   }
-  const isGoogleSearch = rawLink.includes("google.com/search?q=");
-  if (!isGoogleSearch) return rawLink;
-  const query = rawLink.split("q=")[1] || encodeURIComponent(`${questionName} problem`);
-  return `https://www.google.com/search?btnI=1&q=${query}`;
+
+  try {
+    const url = new URL(rawLink);
+    if (url.hostname === "leetcode.com" && url.pathname.endsWith("/description/")) {
+      return `${url.origin}${url.pathname.replace(/\/description\/$/, "/")}${url.search}${url.hash}`;
+    }
+
+    if (url.hostname === "leetcode.com" && url.pathname.endsWith("/description")) {
+      return `${url.origin}${url.pathname.replace(/\/description$/, "/")}${url.search}${url.hash}`;
+    }
+  } catch {
+    return rawLink;
+  }
+
+  return rawLink;
 }
 
 function loadStatusMap() {
@@ -60,13 +76,13 @@ function matchesQuery(topic, query) {
   if (topic.name.toLowerCase().includes(q)) return true;
   return topic.subtopics.some((sub) => {
     if (sub.name.toLowerCase().includes(q)) return true;
-    return sub.questions.some((ques) => ques.name.toLowerCase().includes(q));
+    return sub.questions.some((ques) => questionTitle(ques).toLowerCase().includes(q));
   });
 }
 
 function getCheckedCount(topicName, subName, questions) {
   return questions.reduce((count, q) => {
-    const id = questionId(topicName, subName, q.name);
+    const id = questionId(topicName, subName, questionTitle(q));
     return count + (statusMap[id] ? 1 : 0);
   }, 0);
 }
@@ -101,22 +117,31 @@ function render(topics) {
               <ol class="question-list">
                 ${sub.questions
                   .map(
-                    (q, index) => `
+                    (q, index) => {
+                      const title = questionTitle(q);
+                      const link = directQuestionLink(q.link);
+                      const questionLabel = `${title} <span class="question-link-icon" aria-hidden="true">🔗</span>`;
+                      return `
                     <li class="question-item">
                       <span class="q-index">${index + 1}</span>
-                      <a href="${directQuestionLink(q.link, q.name)}" target="_blank" rel="noopener noreferrer">${q.name}</a>
+                      ${
+                        link
+                          ? `<a class="question-link" href="${link}" target="_blank" rel="noopener noreferrer">${questionLabel}</a>`
+                          : `<span class="question-link question-link-disabled">${title} <span class="question-link-unavailable">Link not available</span></span>`
+                      }
                       <span class="badge ${difficultyClass(q.difficulty)}">${q.difficulty}</span>
                       <label class="status-box" title="Mark completed">
                         <input
                           type="checkbox"
                           class="status-checkbox"
-                          data-id="${questionId(topic.name, sub.name, q.name)}"
-                          ${statusMap[questionId(topic.name, sub.name, q.name)] ? "checked" : ""}
+                          data-id="${questionId(topic.name, sub.name, title)}"
+                          ${statusMap[questionId(topic.name, sub.name, title)] ? "checked" : ""}
                         />
                         <span>Done</span>
                       </label>
                     </li>
-                  `
+                  `;
+                    }
                   )
                   .join("")}
               </ol>
@@ -131,7 +156,7 @@ function render(topics) {
 }
 
 async function init() {
-  const res = await fetch("./sheet-data.json");
+  const res = await fetch(`./sheet-data.json?v=${DATA_VERSION}`, { cache: "no-store" });
   const data = await res.json();
   allTopics = data.topics;
   render(allTopics);
@@ -149,7 +174,7 @@ searchInput.addEventListener("input", (event) => {
           questions: sub.questions.filter(
             (q) =>
               !query ||
-              q.name.toLowerCase().includes(query.toLowerCase()) ||
+              questionTitle(q).toLowerCase().includes(query.toLowerCase()) ||
               sub.name.toLowerCase().includes(query.toLowerCase()) ||
               topic.name.toLowerCase().includes(query.toLowerCase())
           ),
@@ -181,7 +206,7 @@ app.addEventListener("change", (event) => {
           questions: sub.questions.filter(
             (q) =>
               !query ||
-              q.name.toLowerCase().includes(query.toLowerCase()) ||
+              questionTitle(q).toLowerCase().includes(query.toLowerCase()) ||
               sub.name.toLowerCase().includes(query.toLowerCase()) ||
               topic.name.toLowerCase().includes(query.toLowerCase())
           ),

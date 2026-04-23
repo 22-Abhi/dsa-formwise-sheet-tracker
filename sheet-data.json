@@ -7,24 +7,24 @@
           "name": "Binary Search on Answer",
           "questions": [
             {
-              "name": "Digits Sequence (Hard Edition)",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Digits+Sequence+(Hard+Edition)+problem"
+              "title": "Digits Sequence (Hard Edition)",
+              "link": "https://codeforces.com/problemset/problem/1177/B",
+              "difficulty": "Hard"
             },
             {
-              "name": "Aggressive cows",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Aggressive+cows+problem"
+              "title": "Aggressive cows",
+              "link": "https://www.spoj.com/problems/AGGRCOW/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Ugly Number III",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Ugly+Number+III+problem"
+              "title": "Ugly Number III",
+              "link": "https://leetcode.com/problems/ugly-number-iii/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Pond",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Pond+problem"
+              "title": "Pond",
+              "link": "https://atcoder.jp/contests/abc203/tasks/abc203_d",
+              "difficulty": "Medium"
             }
           ]
         },
@@ -32,14 +32,14 @@
           "name": "Binary Search on Every Start",
           "questions": [
             {
-              "name": "Minimum Size Subarray Sum",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Minimum+Size+Subarray+Sum+problem"
+              "title": "Minimum Size Subarray Sum",
+              "link": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Get Equal Substrings Within Budget",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Get+Equal+Substrings+Within+Budget+problem"
+              "title": "Get Equal Substrings Within Budget",
+              "link": "https://leetcode.com/problems/get-equal-substrings-within-budget/",
+              "difficulty": "Medium"
             }
           ]
         },
@@ -47,14 +47,14 @@
           "name": "Binary Search on Real Domain",
           "questions": [
             {
-              "name": "Separate Squares I",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Separate+Squares+I+problem"
+              "title": "Separate Squares I",
+              "link": "https://leetcode.com/problems/separate-squares-i/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Sugar Water 2",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Sugar+Water+2+problem"
+              "title": "Sugar Water 2",
+              "link": "https://atcoder.jp/contests/abc294/tasks/abc294_f",
+              "difficulty": "Extreme"
             }
           ]
         },
@@ -62,14 +62,14 @@
           "name": "Ternary Search",
           "questions": [
             {
-              "name": "Problem E",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Problem+E+problem"
+              "title": "Problem E",
+              "link": "https://codeforces.com/problemset/problem/2132/E",
+              "difficulty": "Medium"
             },
             {
-              "name": "Weakness and Poorness",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Weakness+and+Poorness+problem"
+              "title": "Weakness and Poorness",
+              "link": "https://codeforces.com/problemset/problem/578/C",
+              "difficulty": "Extreme"
             }
           ]
         },
@@ -77,84 +77,84 @@
           "name": "Mixed Practice",
           "questions": [
             {
-              "name": "Kth Excluded",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Kth+Excluded+problem"
+              "title": "Kth Excluded",
+              "link": "https://atcoder.jp/contests/abc205/tasks/abc205_d",
+              "difficulty": "Medium"
             },
             {
-              "name": "Hamburgers",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Hamburgers+problem"
+              "title": "Hamburgers",
+              "link": "https://codeforces.com/problemset/problem/371/C",
+              "difficulty": "Medium"
             },
             {
-              "name": "Handshake",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Handshake+problem"
+              "title": "Handshake",
+              "link": "https://atcoder.jp/contests/abc149/tasks/abc149_e",
+              "difficulty": "Hard"
             },
             {
-              "name": "Dist Max 2",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Dist+Max+2+problem"
+              "title": "Dist Max 2",
+              "link": "https://atcoder.jp/contests/abc215/tasks/abc215_f",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Range Count Query",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Range+Count+Query+problem"
+              "title": "Range Count Query",
+              "link": "https://atcoder.jp/contests/abc248/tasks/abc248_d",
+              "difficulty": "Medium"
             },
             {
-              "name": "K-th Number in the Union of Segments",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=K-th+Number+in+the+Union+of+Segments+problem"
+              "title": "K-th Number in the Union of Segments",
+              "link": "https://codeforces.com/edu/course/2/lesson/6/5/practice/contest/285084/problem/A",
+              "difficulty": "Medium"
             },
             {
-              "name": "Burning Midnight Oil",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Burning+Midnight+Oil+problem"
+              "title": "Burning Midnight Oil",
+              "link": "https://codeforces.com/problemset/problem/165/B",
+              "difficulty": "Medium"
             },
             {
-              "name": "Magnetic Force Between Two Balls",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Magnetic+Force+Between+Two+Balls+problem"
+              "title": "Magnetic Force Between Two Balls",
+              "link": "https://leetcode.com/problems/magnetic-force-between-two-balls/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Valiant's New Map",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Valiant's+New+Map+problem"
+              "title": "Valiant's New Map",
+              "link": "https://codeforces.com/problemset/problem/1731/D",
+              "difficulty": "Hard"
             },
             {
-              "name": "Guess the K- th Zero (Easy version)",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Guess+the+K-+th+Zero+(Easy+version)+problem"
+              "title": "Guess the K- th Zero (Easy version)",
+              "link": "https://codeforces.com/contest/1520/problem/F1",
+              "difficulty": "Medium"
             },
             {
-              "name": "Minimum Speed to Arrive on Time",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Minimum+Speed+to+Arrive+on+Time+problem"
+              "title": "Minimum Speed to Arrive on Time",
+              "link": "https://leetcode.com/problems/minimum-speed-to-arrive-on-time/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Find Building Where Alice and Bob Can Meet",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Find+Building+Where+Alice+and+Bob+Can+Meet+problem"
+              "title": "Find Building Where Alice and Bob Can Meet",
+              "link": "https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Maximum Fruits Harvested After at Most K Steps",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Maximum+Fruits+Harvested+After+at+Most+K+Steps+problem"
+              "title": "Maximum Fruits Harvested After at Most K Steps",
+              "link": "https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Tripartite Station",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Tripartite+Station+problem"
+              "title": "Tripartite Station",
+              "link": "https://www.codechef.com/problems/TRPTSTIC",
+              "difficulty": "Hard"
             },
             {
-              "name": "Cellular Network",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Cellular+Network+problem"
+              "title": "Cellular Network",
+              "link": "https://codeforces.com/contest/702/problem/C",
+              "difficulty": "Medium"
             },
             {
-              "name": "The Meeting Place Cannot Be Changed",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=The+Meeting+Place+Cannot+Be+Changed+problem"
+              "title": "The Meeting Place Cannot Be Changed",
+              "link": "https://codeforces.com/contest/782/problem/B",
+              "difficulty": "Medium"
             }
           ]
         }
@@ -167,14 +167,14 @@
           "name": "Form 0",
           "questions": [
             {
-              "name": "Minimum Inversion Count in Subarrays of Fixed Length",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Minimum+Inversion+Count+in+Subarrays+of+Fixed+Length+problem"
+              "title": "Minimum Inversion Count in Subarrays of Fixed Length",
+              "link": "https://leetcode.com/problems/minimum-inversion-count-in-subarrays-of-fixed-length/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Sereja and Anagrams",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Sereja+and+Anagrams+problem"
+              "title": "Sereja and Anagrams",
+              "link": "https://codeforces.com/problemset/problem/367/B",
+              "difficulty": "Hard"
             }
           ]
         },
@@ -182,24 +182,24 @@
           "name": "Form 1",
           "questions": [
             {
-              "name": "Problem E",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Problem+E+problem"
+              "title": "Problem E",
+              "link": "https://atcoder.jp/contests/abc444/tasks/abc444_e",
+              "difficulty": "Hard"
             },
             {
-              "name": "Count Subarrays with Cost Less Than or Equal to K",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Count+Subarrays+with+Cost+Less+Than+or+Equal+to+K+problem"
+              "title": "Count Subarrays with Cost Less Than or Equal to K",
+              "link": "https://leetcode.com/problems/count-subarrays-with-cost-less-than-or-equal-to-k/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Problem C",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Problem+C+problem"
+              "title": "Problem C",
+              "link": "https://atcoder.jp/contests/abc430/tasks/abc430_c",
+              "difficulty": "Medium"
             },
             {
-              "name": "Subarrays with K Different Integers",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Subarrays+with+K+Different+Integers+problem"
+              "title": "Subarrays with K Different Integers",
+              "link": "https://leetcode.com/problems/subarrays-with-k-different-integers/",
+              "difficulty": "Hard"
             }
           ]
         },
@@ -207,19 +207,19 @@
           "name": "Form 2",
           "questions": [
             {
-              "name": "Number of Subsequenc es That Satisfy the Given Sum Condition",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Number+of+Subsequenc+es+That+Satisfy+the+Given+Sum+Condition+problem"
+              "title": "Number of Subsequenc es That Satisfy the Given Sum Condition",
+              "link": "https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Boats to Save People",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Boats+to+Save+People+problem"
+              "title": "Boats to Save People",
+              "link": "https://leetcode.com/problems/boats-to-save-people/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Pair of Topics",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Pair+of+Topics+problem"
+              "title": "Pair of Topics",
+              "link": "https://codeforces.com/problemset/problem/1324/D",
+              "difficulty": "Medium"
             }
           ]
         },
@@ -227,19 +227,19 @@
           "name": "Form 3",
           "questions": [
             {
-              "name": "Subsequenc e With the Minimum Score",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Subsequenc+e+With+the+Minimum+Score+problem"
+              "title": "Subsequenc e With the Minimum Score",
+              "link": "https://leetcode.com/problems/subsequence-with-the-minimum-score/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Most Profit Assigning Work",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Most+Profit+Assigning+Work+problem"
+              "title": "Most Profit Assigning Work",
+              "link": "https://leetcode.com/problems/most-profit-assigning-work/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Impartial Gift",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Impartial+Gift+problem"
+              "title": "Impartial Gift",
+              "link": "https://atcoder.jp/contests/abc302/tasks/abc302_d",
+              "difficulty": "Medium"
             }
           ]
         },
@@ -247,84 +247,84 @@
           "name": "Mixed Practice",
           "questions": [
             {
-              "name": "Find the Median of the Uniqueness Array",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Find+the+Median+of+the+Uniqueness+Array+problem"
+              "title": "Find the Median of the Uniqueness Array",
+              "link": "https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Count Subarrays With Score Less Than K",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Count+Subarrays+With+Score+Less+Than+K+problem"
+              "title": "Count Subarrays With Score Less Than K",
+              "link": "https://leetcode.com/problems/count-subarrays-with-score-less-than-k/",
+              "difficulty": "Hard"
             },
             {
-              "name": "K Radius Subarray Averages",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=K+Radius+Subarray+Averages+problem"
+              "title": "K Radius Subarray Averages",
+              "link": "https://leetcode.com/problems/k-radius-subarray-averages/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Minimum Window Substring",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Minimum+Window+Substring+problem"
+              "title": "Minimum Window Substring",
+              "link": "https://leetcode.com/problems/minimum-window-substring/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Longest Substring with At Least K Repeating Characters",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Longest+Substring+with+At+Least+K+Repeating+Characters+problem"
+              "title": "Longest Substring with At Least K Repeating Characters",
+              "link": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Exposition",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Exposition+problem"
+              "title": "Exposition",
+              "link": "https://codeforces.com/contest/6/problem/E",
+              "difficulty": "Medium"
             },
             {
-              "name": "Enough Array",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Enough+Array+problem"
+              "title": "Enough Array",
+              "link": "https://atcoder.jp/contests/abc130/tasks/abc130_d",
+              "difficulty": "Medium"
             },
             {
-              "name": "Max Value of Equation",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Max+Value+of+Equation+problem"
+              "title": "Max Value of Equation",
+              "link": "https://leetcode.com/problems/max-value-of-equation/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Maximum Number of Robots Within Budget",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Maximum+Number+of+Robots+Within+Budget+problem"
+              "title": "Maximum Number of Robots Within Budget",
+              "link": "https://leetcode.com/problems/maximum-number-of-robots-within-budget/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Length of the Longest Valid Substring",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Length+of+the+Longest+Valid+Substring+problem"
+              "title": "Length of the Longest Valid Substring",
+              "link": "https://leetcode.com/problems/length-of-the-longest-valid-substring/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Minimum Subarray Length With Distinct Sum At Least K",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Minimum+Subarray+Length+With+Distinct+Sum+At+Least+K+problem"
+              "title": "Minimum Subarray Length With Distinct Sum At Least K",
+              "link": "https://leetcode.com/problems/minimum-subarray-length-with-distinct-sum-at-least-k/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Count Prime Gap Balanced Subarrays",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Count+Prime+Gap+Balanced+Subarrays+problem"
+              "title": "Count Prime Gap Balanced Subarrays",
+              "link": "https://leetcode.com/problems/count-prime-gap-balanced-subarrays/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Sliding Window Or",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Sliding+Window+Or+problem"
+              "title": "Sliding Window Or",
+              "link": "https://cses.fi/problemset/task/3405/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Quiz Master",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Quiz+Master+problem"
+              "title": "Quiz Master",
+              "link": "https://codeforces.com/contest/1777/problem/C",
+              "difficulty": "Medium"
             },
             {
-              "name": "Vasya and Robot",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Vasya+and+Robot+problem"
+              "title": "Vasya and Robot",
+              "link": "https://codeforces.com/contest/1073/problem/C",
+              "difficulty": "Hard"
             },
             {
-              "name": "Sliding Window Mex",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Sliding+Window+Mex+problem"
+              "title": "Sliding Window Mex",
+              "link": "https://cses.fi/problemset/task/3219/",
+              "difficulty": "Hard"
             }
           ]
         }
@@ -337,14 +337,14 @@
           "name": "DnC",
           "questions": [
             {
-              "name": "Caracal vs Monster",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Caracal+vs+Monster+problem"
+              "title": "Caracal vs Monster",
+              "link": "https://atcoder.jp/contests/abc153/tasks/abc153_d",
+              "difficulty": "Medium"
             },
             {
-              "name": "Tower of Hanoi",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Tower+of+Hanoi+problem"
+              "title": "Tower of Hanoi",
+              "link": "https://cses.fi/problemset/task/2165",
+              "difficulty": "Medium"
             }
           ]
         },
@@ -352,24 +352,24 @@
           "name": "Kth Form",
           "questions": [
             {
-              "name": "Code For 1",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Code+For+1+problem"
+              "title": "Code For 1",
+              "link": "https://codeforces.com/problemset/problem/768/B",
+              "difficulty": "Medium"
             },
             {
-              "name": "Nephren gives a riddle",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Nephren+gives+a+riddle+problem"
+              "title": "Nephren gives a riddle",
+              "link": "https://codeforces.com/problemset/problem/896/A",
+              "difficulty": "Hard"
             },
             {
-              "name": "Christmas",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Christmas+problem"
+              "title": "Christmas",
+              "link": "https://atcoder.jp/contests/abc115/tasks/abc115_d",
+              "difficulty": "Medium"
             },
             {
-              "name": "K-th Symbol in Grammar",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=K-th+Symbol+in+Grammar+problem"
+              "title": "K-th Symbol in Grammar",
+              "link": "https://leetcode.com/problems/k-th-symbol-in-grammar/",
+              "difficulty": "Medium"
             }
           ]
         },
@@ -377,24 +377,24 @@
           "name": "Backtracking",
           "questions": [
             {
-              "name": "Beautiful Arrangement",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Beautiful+Arrangement+problem"
+              "title": "Beautiful Arrangement",
+              "link": "https://leetcode.com/problems/beautiful-arrangement/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Target Sum",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Target+Sum+problem"
+              "title": "Target Sum",
+              "link": "https://leetcode.com/problems/target-sum/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Ambiguous Coordinates",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Ambiguous+Coordinates+problem"
+              "title": "Ambiguous Coordinates",
+              "link": "https://leetcode.com/problems/ambiguous-coordinates/",
+              "difficulty": "Medium"
             },
             {
-              "name": "755",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=755+problem"
+              "title": "755",
+              "link": "https://atcoder.jp/contests/abc114/tasks/abc114_c",
+              "difficulty": "Medium"
             }
           ]
         },
@@ -402,59 +402,59 @@
           "name": "Mixed Practice",
           "questions": [
             {
-              "name": "Fractals",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Fractals+problem"
+              "title": "Fractals",
+              "link": "https://codeforces.com/problemset/problem/36/B",
+              "difficulty": "Medium"
             },
             {
-              "name": "Chessboard and Queens",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Chessboard+and+Queens+problem"
+              "title": "Chessboard and Queens",
+              "link": "https://cses.fi/problemset/task/1624",
+              "difficulty": "Medium"
             },
             {
-              "name": "Partition Array Into Two Equal Product Subsets",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Partition+Array+Into+Two+Equal+Product+Subsets+problem"
+              "title": "Partition Array Into Two Equal Product Subsets",
+              "link": "https://leetcode.com/problems/partition-array-into-two-equal-product-subsets/",
+              "difficulty": "Hard"
             },
             {
-              "name": "The k-th Lexicographi cal String of All Happy Strings of Length n",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=The+k-th+Lexicographi+cal+String+of+All+Happy+Strings+of+Length+n+problem"
+              "title": "The k-th Lexicographi cal String of All Happy Strings of Length n",
+              "link": "https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/",
+              "difficulty": "Medium"
             },
             {
-              "name": "ORXOR",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=ORXOR+problem"
+              "title": "ORXOR",
+              "link": "https://atcoder.jp/contests/abc197/tasks/abc197_c",
+              "difficulty": "Medium"
             },
             {
-              "name": "Dividing Chocolate",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Dividing+Chocolate+problem"
+              "title": "Dividing Chocolate",
+              "link": "https://atcoder.jp/contests/abc159/tasks/abc159_e",
+              "difficulty": "Hard"
             },
             {
-              "name": "Synthetic Kadomatsu",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Synthetic+Kadomatsu+problem"
+              "title": "Synthetic Kadomatsu",
+              "link": "https://atcoder.jp/contests/abc119/tasks/abc119_c",
+              "difficulty": "Medium"
             },
             {
-              "name": "Red Polyomino",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Red+Polyomino+problem"
+              "title": "Red Polyomino",
+              "link": "https://atcoder.jp/contests/abc211/tasks/abc211_e",
+              "difficulty": "Hard"
             },
             {
-              "name": "Split Array into Fibonacci Sequence",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Split+Array+into+Fibonacci+Sequence+problem"
+              "title": "Split Array into Fibonacci Sequence",
+              "link": "https://leetcode.com/problems/split-array-into-fibonacci-sequence/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Additive Number",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Additive+Number+problem"
+              "title": "Additive Number",
+              "link": "https://leetcode.com/problems/additive-number/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Fibonacci String",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Fibonacci+String+problem"
+              "title": "Fibonacci String",
+              "link": "https://atcoder.jp/contests/abc450/tasks/abc450_e",
+              "difficulty": "Hard"
             }
           ]
         }
@@ -467,29 +467,29 @@
           "name": "DFS",
           "questions": [
             {
-              "name": "Coloring A Border",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Coloring+A+Border+problem"
+              "title": "Coloring A Border",
+              "link": "https://leetcode.com/problems/coloring-a-border/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Greatest Common Divisor Traversal",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Greatest+Common+Divisor+Traversal+problem"
+              "title": "Greatest Common Divisor Traversal",
+              "link": "https://leetcode.com/problems/greatest-common-divisor-traversal/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Maximum Partition Factor",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Maximum+Partition+Factor+problem"
+              "title": "Maximum Partition Factor",
+              "link": "https://leetcode.com/problems/maximum-partition-factor/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Longest Cycle in a Graph",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Longest+Cycle+in+a+Graph+problem"
+              "title": "Longest Cycle in a Graph",
+              "link": "https://leetcode.com/problems/longest-cycle-in-a-graph/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Friend Suggestions",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Friend+Suggestions+problem"
+              "title": "Friend Suggestions",
+              "link": "https://atcoder.jp/contests/abc157/tasks/abc157_d",
+              "difficulty": "Medium"
             }
           ]
         },
@@ -497,29 +497,29 @@
           "name": "BFS",
           "questions": [
             {
-              "name": "Word Ladder",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Word+Ladder+problem"
+              "title": "Word Ladder",
+              "link": "https://leetcode.com/problems/word-ladder/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Shortest Path with Alternating Colors",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Shortest+Path+with+Alternating+Colors+problem"
+              "title": "Shortest Path with Alternating Colors",
+              "link": "https://leetcode.com/problems/shortest-path-with-alternating-colors/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Sliding Puzzle",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Sliding+Puzzle+problem"
+              "title": "Sliding Puzzle",
+              "link": "https://leetcode.com/problems/sliding-puzzle/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Valid BFS?",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Valid+BFS?+problem"
+              "title": "Valid BFS?",
+              "link": "https://codeforces.com/contest/1037/problem/D",
+              "difficulty": "Medium"
             },
             {
-              "name": "Shortest Cycle",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Shortest+Cycle+problem"
+              "title": "Shortest Cycle",
+              "link": "https://codeforces.com/problemset/problem/1205/B",
+              "difficulty": "Hard"
             }
           ]
         },
@@ -527,29 +527,29 @@
           "name": "Topological Ordering",
           "questions": [
             {
-              "name": "Strange Printer II",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Strange+Printer+II+problem"
+              "title": "Strange Printer II",
+              "link": "https://leetcode.com/problems/strange-printer-ii/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Parallel Courses III",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Parallel+Courses+III+problem"
+              "title": "Parallel Courses III",
+              "link": "https://leetcode.com/problems/parallel-courses-iii/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Sort Items by Groups Respecting Dependencie s",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Sort+Items+by+Groups+Respecting+Dependencie+s+problem"
+              "title": "Sort Items by Groups Respecting Dependencie s",
+              "link": "https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Shiritori",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Shiritori+problem"
+              "title": "Shiritori",
+              "link": "https://atcoder.jp/contests/abc209/tasks/abc209_e",
+              "difficulty": "Hard"
             },
             {
-              "name": "Fox And Names",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Fox+And+Names+problem"
+              "title": "Fox And Names",
+              "link": "https://codeforces.com/problemset/problem/510/C",
+              "difficulty": "Medium"
             }
           ]
         },
@@ -557,29 +557,29 @@
           "name": "Shortest Path Algorithm",
           "questions": [
             {
-              "name": "Minimum Time to Visit a Cell In a Grid",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Minimum+Time+to+Visit+a+Cell+In+a+Grid+problem"
+              "title": "Minimum Time to Visit a Cell In a Grid",
+              "link": "https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Coins Respawn",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Coins+Respawn+problem"
+              "title": "Coins Respawn",
+              "link": "https://atcoder.jp/contests/abc137/tasks/abc137_e",
+              "difficulty": "Hard"
             },
             {
-              "name": "Jzzhu and Cities",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Jzzhu+and+Cities+problem"
+              "title": "Jzzhu and Cities",
+              "link": "https://codeforces.com/problemset/problem/449/B",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Rush Hour 2",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Rush+Hour+2+problem"
+              "title": "Rush Hour 2",
+              "link": "https://atcoder.jp/contests/abc204/tasks/abc204_e",
+              "difficulty": "Medium"
             },
             {
-              "name": "Shortest Path Queries 2",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Shortest+Path+Queries+2+problem"
+              "title": "Shortest Path Queries 2",
+              "link": "https://atcoder.jp/contests/abc208/tasks/abc208_d",
+              "difficulty": "Medium"
             }
           ]
         },
@@ -587,29 +587,29 @@
           "name": "0/1 BFS",
           "questions": [
             {
-              "name": "Minimum Cost to Make at Least One Valid Path in a Grid",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Minimum+Cost+to+Make+at+Least+One+Valid+Path+in+a+Grid+problem"
+              "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+              "link": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/",
+              "difficulty": "Hard"
             },
             {
-              "name": "KATHTHI",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=KATHTHI+problem"
+              "title": "KATHTHI",
+              "link": "https://www.spoj.com/problems/KATHTHI/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Minimum Obstacle Removal to Reach Corner",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Minimum+Obstacle+Removal+to+Reach+Corner+problem"
+              "title": "Minimum Obstacle Removal to Reach Corner",
+              "link": "https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Stronger Takahashi",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Stronger+Takahashi+problem"
+              "title": "Stronger Takahashi",
+              "link": "https://atcoder.jp/contests/abc213/tasks/abc213_e",
+              "difficulty": "Hard"
             },
             {
-              "name": "Chamber of Secrets",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Chamber+of+Secrets+problem"
+              "title": "Chamber of Secrets",
+              "link": "https://codeforces.com/problemset/problem/173/B",
+              "difficulty": "Hard"
             }
           ]
         },
@@ -617,29 +617,29 @@
           "name": "DSU",
           "questions": [
             {
-              "name": "Sum of Maximum Weights",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Sum+of+Maximum+Weights+problem"
+              "title": "Sum of Maximum Weights",
+              "link": "https://atcoder.jp/contests/abc214/tasks/abc214_d",
+              "difficulty": "Medium"
             },
             {
-              "name": "Making A Large Island",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Making+A+Large+Island+problem"
+              "title": "Making A Large Island",
+              "link": "https://leetcode.com/problems/making-a-large-island/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Largest Component Size by Common Factor",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Largest+Component+Size+by+Common+Factor+problem"
+              "title": "Largest Component Size by Common Factor",
+              "link": "https://leetcode.com/problems/largest-component-size-by-common-factor/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Remove Max Number of Edges to Keep Graph Fully Traversable",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Remove+Max+Number+of+Edges+to+Keep+Graph+Fully+Traversable+problem"
+              "title": "Remove Max Number of Edges to Keep Graph Fully Traversable",
+              "link": "https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Maximum Distance",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Maximum+Distance+problem"
+              "title": "Maximum Distance",
+              "link": "https://codeforces.com/problemset/problem/1081/D",
+              "difficulty": "Hard"
             }
           ]
         },
@@ -647,29 +647,29 @@
           "name": "MST",
           "questions": [
             {
-              "name": "Hierarchy",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Hierarchy+problem"
+              "title": "Hierarchy",
+              "link": "https://codeforces.com/problemset/problem/17/B",
+              "difficulty": "Medium"
             },
             {
-              "name": "Built?",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Built?+problem"
+              "title": "Built?",
+              "link": "https://atcoder.jp/contests/abc065/tasks/arc076_b",
+              "difficulty": "Medium"
             },
             {
-              "name": "Shichikuji and Power Grid",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Shichikuji+and+Power+Grid+problem"
+              "title": "Shichikuji and Power Grid",
+              "link": "https://codeforces.com/problemset/problem/1245/D",
+              "difficulty": "Medium"
             },
             {
-              "name": "MST + 1",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=MST+++1+problem"
+              "title": "MST + 1",
+              "link": "https://atcoder.jp/contests/abc235/tasks/abc235_e",
+              "difficulty": "Medium"
             },
             {
-              "name": "Maximize Spanning Tree Stability with Upgrades",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Maximize+Spanning+Tree+Stability+with+Upgrades+problem"
+              "title": "Maximize Spanning Tree Stability with Upgrades",
+              "link": "https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/",
+              "difficulty": "Hard"
             }
           ]
         },
@@ -677,89 +677,89 @@
           "name": "Mixed Practice",
           "questions": [
             {
-              "name": "KAIBUNsyo",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=KAIBUNsyo+problem"
+              "title": "KAIBUNsyo",
+              "link": "https://atcoder.jp/contests/abc206/tasks/abc206_d",
+              "difficulty": "Medium"
             },
             {
-              "name": "1 or 2",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=1+or+2+problem"
+              "title": "1 or 2",
+              "link": "https://atcoder.jp/contests/abc126/tasks/abc126_e",
+              "difficulty": "Medium"
             },
             {
-              "name": "Divide Nodes Into the Maximum Number of Groups",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Divide+Nodes+Into+the+Maximum+Number+of+Groups+problem"
+              "title": "Divide Nodes Into the Maximum Number of Groups",
+              "link": "https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Vlad and Unfinished Business",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Vlad+and+Unfinished+Business+problem"
+              "title": "Vlad and Unfinished Business",
+              "link": "https://codeforces.com/problemset/problem/1675/F",
+              "difficulty": "Medium"
             },
             {
-              "name": "Number of Increasing Paths in a Grid",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Number+of+Increasing+Paths+in+a+Grid+problem"
+              "title": "Number of Increasing Paths in a Grid",
+              "link": "https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Coprocessor",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Coprocessor+problem"
+              "title": "Coprocessor",
+              "link": "https://codeforces.com/problemset/problem/909/E",
+              "difficulty": "Hard"
             },
             {
-              "name": "Minimum Moves to Move a Box to Their Target Location",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Minimum+Moves+to+Move+a+Box+to+Their+Target+Location+problem"
+              "title": "Minimum Moves to Move a Box to Their Target Location",
+              "link": "https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Check if the Rectangle Corner Is Reachable",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Check+if+the+Rectangle+Corner+Is+Reachable+problem"
+              "title": "Check if the Rectangle Corner Is Reachable",
+              "link": "https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Rank Transform of a Matrix",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Rank+Transform+of+a+Matrix+problem"
+              "title": "Rank Transform of a Matrix",
+              "link": "https://leetcode.com/problems/rank-transform-of-a-matrix/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Range Connect MST",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Range+Connect+MST+problem"
+              "title": "Range Connect MST",
+              "link": "https://atcoder.jp/contests/abc364/tasks/abc364_f",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Find Critical and Pseudo- Critical Edges in Minimum Spanning Tree",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Find+Critical+and+Pseudo-+Critical+Edges+in+Minimum+Spanning+Tree+problem"
+              "title": "Find Critical and Pseudo- Critical Edges in Minimum Spanning Tree",
+              "link": "https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Three States",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Three+States+problem"
+              "title": "Three States",
+              "link": "https://codeforces.com/problemset/problem/590/C",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Average Shortest Path",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Average+Shortest+Path+problem"
+              "title": "Average Shortest Path",
+              "link": "https://www.codechef.com/problems/AVGSHORT",
+              "difficulty": "Hard"
             },
             {
-              "name": "Liars",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Liars+problem"
+              "title": "Liars",
+              "link": "https://www.hackerrank.com/challenges/liars/problem",
+              "difficulty": "Medium"
             },
             {
-              "name": "Collision",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Collision+problem"
+              "title": "Collision",
+              "link": "https://atcoder.jp/contests/arc090/tasks/arc090_c",
+              "difficulty": "Medium"
             },
             {
-              "name": "Roads in Berland",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Roads+in+Berland+problem"
+              "title": "Roads in Berland",
+              "link": "https://codeforces.com/problemset/problem/25/C",
+              "difficulty": "Medium"
             },
             {
-              "name": "Travel by Car",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Travel+by+Car+problem"
+              "title": "Travel by Car",
+              "link": "https://atcoder.jp/contests/abc143/tasks/abc143_e",
+              "difficulty": "Hard"
             }
           ]
         }
@@ -772,19 +772,19 @@
           "name": "Cyclic Property",
           "questions": [
             {
-              "name": "XOR World",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=XOR+World+problem"
+              "title": "XOR World",
+              "link": "https://atcoder.jp/contests/abc121/tasks/abc121_d",
+              "difficulty": "Medium"
             },
             {
-              "name": "Counting Bits",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Counting+Bits+problem"
+              "title": "Counting Bits",
+              "link": "https://cses.fi/problemset/task/1146",
+              "difficulty": "Medium"
             },
             {
-              "name": "Maximum Number That Sum of the Prices Is Less Than or Equal to K",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Maximum+Number+That+Sum+of+the+Prices+Is+Less+Than+or+Equal+to+K+problem"
+              "title": "Maximum Number That Sum of the Prices Is Less Than or Equal to K",
+              "link": "https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/",
+              "difficulty": "Medium"
             }
           ]
         },
@@ -792,19 +792,19 @@
           "name": "Contribution on Bit",
           "questions": [
             {
-              "name": "XXOR",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=XXOR+problem"
+              "title": "XXOR",
+              "link": "https://atcoder.jp/contests/abc117/tasks/abc117_d",
+              "difficulty": "Medium"
             },
             {
-              "name": "I hate Matrix Construction",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=I+hate+Matrix+Construction+problem"
+              "title": "I hate Matrix Construction",
+              "link": "https://atcoder.jp/contests/abc164/tasks/abc164_f",
+              "difficulty": "Extreme"
             },
             {
-              "name": "NR2 - Bhagat The Bit Man",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=NR2+-+Bhagat+The+Bit+Man+problem"
+              "title": "NR2 - Bhagat The Bit Man",
+              "link": "https://www.spoj.com/problems/NR2/",
+              "difficulty": "Medium"
             }
           ]
         },
@@ -812,19 +812,19 @@
           "name": "Operation Decoding",
           "questions": [
             {
-              "name": "Magic Formulas",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Magic+Formulas+problem"
+              "title": "Magic Formulas",
+              "link": "https://codeforces.com/problemset/problem/424/C",
+              "difficulty": "Medium"
             },
             {
-              "name": "Number of Excellent Pairs",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Number+of+Excellent+Pairs+problem"
+              "title": "Number of Excellent Pairs",
+              "link": "https://leetcode.com/problems/number-of-excellent-pairs/",
+              "difficulty": "Hard"
             },
             {
-              "name": "XOR Matching",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=XOR+Matching+problem"
+              "title": "XOR Matching",
+              "link": "https://atcoder.jp/contests/abc126/tasks/abc126_f",
+              "difficulty": "Extreme"
             }
           ]
         },
@@ -832,19 +832,19 @@
           "name": "MSB to LSB or LSB to MSB",
           "questions": [
             {
-              "name": "Bits",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Bits+problem"
+              "title": "Bits",
+              "link": "https://codeforces.com/problemset/problem/484/A",
+              "difficulty": "Hard"
             },
             {
-              "name": "Little Girl and Maximum XOR",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Little+Girl+and+Maximum+XOR+problem"
+              "title": "Little Girl and Maximum XOR",
+              "link": "https://codeforces.com/problemset/problem/276/D",
+              "difficulty": "Hard"
             },
             {
-              "name": "Minimum Operations to Form Subsequenc e With Target Sum",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Minimum+Operations+to+Form+Subsequenc+e+With+Target+Sum+problem"
+              "title": "Minimum Operations to Form Subsequenc e With Target Sum",
+              "link": "https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/",
+              "difficulty": "Hard"
             }
           ]
         },
@@ -852,54 +852,54 @@
           "name": "Mixed Practice",
           "questions": [
             {
-              "name": "Mikasa",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Mikasa+problem"
+              "title": "Mikasa",
+              "link": "https://codeforces.com/problemset/problem/1554/C",
+              "difficulty": "Medium"
             },
             {
-              "name": "Ehab the Xorcist",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Ehab+the+Xorcist+problem"
+              "title": "Ehab the Xorcist",
+              "link": "https://codeforces.com/problemset/problem/1325/D",
+              "difficulty": "Hard"
             },
             {
-              "name": "Xor Sum 4",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Xor+Sum+4+problem"
+              "title": "Xor Sum 4",
+              "link": "https://atcoder.jp/contests/abc147/tasks/abc147_d",
+              "difficulty": "Medium"
             },
             {
-              "name": "Triples with Bitwise AND Equal To Zero",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Triples+with+Bitwise+AND+Equal+To+Zero+problem"
+              "title": "Triples with Bitwise AND Equal To Zero",
+              "link": "https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/",
+              "difficulty": "Hard"
             },
             {
-              "name": "The Brand New Function",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=The+Brand+New+Function+problem"
+              "title": "The Brand New Function",
+              "link": "https://codeforces.com/problemset/problem/243/A",
+              "difficulty": "Medium"
             },
             {
-              "name": "Xor Pyramid Peak",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Xor+Pyramid+Peak+problem"
+              "title": "Xor Pyramid Peak",
+              "link": "https://cses.fi/problemset/task/2419",
+              "difficulty": "Hard"
             },
             {
-              "name": "Number of Subarrays With AND Value of K",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Number+of+Subarrays+With+AND+Value+of+K+problem"
+              "title": "Number of Subarrays With AND Value of K",
+              "link": "https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Find Subarray With Bitwise OR Closest to K",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Find+Subarray+With+Bitwise+OR+Closest+to+K+problem"
+              "title": "Find Subarray With Bitwise OR Closest to K",
+              "link": "https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Points and Powers of Two",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Points+and+Powers+of+Two+problem"
+              "title": "Points and Powers of Two",
+              "link": "https://codeforces.com/problemset/problem/988/D",
+              "difficulty": "Hard"
             },
             {
-              "name": "Count Good Subarrays",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Count+Good+Subarrays+problem"
+              "title": "Count Good Subarrays",
+              "link": "https://leetcode.com/problems/count-good-subarrays/",
+              "difficulty": "Hard"
             }
           ]
         }
@@ -912,29 +912,29 @@
           "name": "Form 1",
           "questions": [
             {
-              "name": "Count Sequences to K",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Count+Sequences+to+K+problem"
+              "title": "Count Sequences to K",
+              "link": "https://leetcode.com/problems/count-sequences-to-k/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Maximum Sum of 3 Non- Overlapping Subarrays",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Maximum+Sum+of+3+Non-+Overlapping+Subarrays+problem"
+              "title": "Maximum Sum of 3 Non- Overlapping Subarrays",
+              "link": "https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Find the Maximum Sequence Value of Array",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Find+the+Maximum+Sequence+Value+of+Array+problem"
+              "title": "Find the Maximum Sequence Value of Array",
+              "link": "https://leetcode.com/problems/find-the-maximum-sequence-value-of-array/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Picking Goods",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Picking+Goods+problem"
+              "title": "Picking Goods",
+              "link": "https://atcoder.jp/contests/abc175/tasks/abc175_e",
+              "difficulty": "Hard"
             },
             {
-              "name": "Knapsack for All Segments",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Knapsack+for+All+Segments+problem"
+              "title": "Knapsack for All Segments",
+              "link": "https://atcoder.jp/contests/abc159/tasks/abc159_f",
+              "difficulty": "Extreme"
             }
           ]
         },
@@ -942,29 +942,29 @@
           "name": "Form 2",
           "questions": [
             {
-              "name": "Longest Unequal Adjacent Groups Subsequenc e II",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Longest+Unequal+Adjacent+Groups+Subsequenc+e+II+problem"
+              "title": "Longest Unequal Adjacent Groups Subsequenc e II",
+              "link": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Minimum Number of Removals to Make Mountain Array",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Minimum+Number+of+Removals+to+Make+Mountain+Array+problem"
+              "title": "Minimum Number of Removals to Make Mountain Array",
+              "link": "https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Jump Game V",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Jump+Game+V+problem"
+              "title": "Jump Game V",
+              "link": "https://leetcode.com/problems/jump-game-v/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Greenhouse Effect",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Greenhouse+Effect+problem"
+              "title": "Greenhouse Effect",
+              "link": "https://codeforces.com/problemset/problem/269/B",
+              "difficulty": "Hard"
             },
             {
-              "name": "Mysterious Present",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Mysterious+Present+problem"
+              "title": "Mysterious Present",
+              "link": "https://codeforces.com/problemset/problem/4/D",
+              "difficulty": "Hard"
             }
           ]
         },
@@ -972,29 +972,29 @@
           "name": "Form 3",
           "questions": [
             {
-              "name": "Sequence Matching",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Sequence+Matching+problem"
+              "title": "Sequence Matching",
+              "link": "https://atcoder.jp/contests/abc185/tasks/abc185_e",
+              "difficulty": "Hard"
             },
             {
-              "name": "Changing a String",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Changing+a+String+problem"
+              "title": "Changing a String",
+              "link": "https://codeforces.com/problemset/problem/56/D",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Regular Expression Matching",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Regular+Expression+Matching+problem"
+              "title": "Regular Expression Matching",
+              "link": "https://leetcode.com/problems/regular-expression-matching/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Armchairs",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Armchairs+problem"
+              "title": "Armchairs",
+              "link": "https://codeforces.com/problemset/problem/1525/D",
+              "difficulty": "Medium"
             },
             {
-              "name": "Common Subsequenc e",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Common+Subsequenc+e+problem"
+              "title": "Common Subsequenc e",
+              "link": "https://atcoder.jp/contests/abc130/tasks/abc130_e",
+              "difficulty": "Hard"
             }
           ]
         },
@@ -1002,29 +1002,29 @@
           "name": "Form 4",
           "questions": [
             {
-              "name": "MIXTURES",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=MIXTURES+problem"
+              "title": "MIXTURES",
+              "link": "https://www.spoj.com/problems/MIXTURES/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Zuma",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Zuma+problem"
+              "title": "Zuma",
+              "link": "https://codeforces.com/problemset/problem/607/B",
+              "difficulty": "Hard"
             },
             {
-              "name": "Make Pair",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Make+Pair+problem"
+              "title": "Make Pair",
+              "link": "https://atcoder.jp/contests/abc217/tasks/abc217_f",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Minimum Cost to Merge Stones",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Minimum+Cost+to+Merge+Stones+problem"
+              "title": "Minimum Cost to Merge Stones",
+              "link": "https://leetcode.com/problems/minimum-cost-to-merge-stones/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Slimes",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Slimes+problem"
+              "title": "Slimes",
+              "link": "https://atcoder.jp/contests/dp/tasks/dp_n",
+              "difficulty": "Hard"
             }
           ]
         },
@@ -1032,29 +1032,29 @@
           "name": "Form 5",
           "questions": [
             {
-              "name": "MCOINS - Coins Game",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=MCOINS+-+Coins+Game+problem"
+              "title": "MCOINS - Coins Game",
+              "link": "https://www.spoj.com/problems/MCOINS/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Stone Game III",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Stone+Game+III+problem"
+              "title": "Stone Game III",
+              "link": "https://leetcode.com/problems/stone-game-iii/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Interval Game 2",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Interval+Game+2+problem"
+              "title": "Interval Game 2",
+              "link": "https://atcoder.jp/contests/abc206/tasks/abc206_f",
+              "difficulty": "Extreme"
             },
             {
-              "name": "ADAGAME - Ada and Game",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=ADAGAME+-+Ada+and+Game+problem"
+              "title": "ADAGAME - Ada and Game",
+              "link": "https://www.spoj.com/problems/ADAGAME/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Deque",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Deque+problem"
+              "title": "Deque",
+              "link": "https://atcoder.jp/contests/dp/tasks/dp_l",
+              "difficulty": "Medium"
             }
           ]
         },
@@ -1062,119 +1062,119 @@
           "name": "Mixed Practice",
           "questions": [
             {
-              "name": "Minimum Removals to Achieve Target XOR",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Minimum+Removals+to+Achieve+Target+XOR+problem"
+              "title": "Minimum Removals to Achieve Target XOR",
+              "link": "https://leetcode.com/problems/minimum-removals-to-achieve-target-xor/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Count The Number of Winning Sequences",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Count+The+Number+of+Winning+Sequences+problem"
+              "title": "Count The Number of Winning Sequences",
+              "link": "https://leetcode.com/problems/count-the-number-of-winning-sequences/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Minimum Sum of Values by Dividing Array",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Minimum+Sum+of+Values+by+Dividing+Array+problem"
+              "title": "Minimum Sum of Values by Dividing Array",
+              "link": "https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Burst Balloons",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Burst+Balloons+problem"
+              "title": "Burst Balloons",
+              "link": "https://leetcode.com/problems/burst-balloons/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Longest Regular Bracket Sequence",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Longest+Regular+Bracket+Sequence+problem"
+              "title": "Longest Regular Bracket Sequence",
+              "link": "https://codeforces.com/problemset/problem/5/C",
+              "difficulty": "Hard"
             },
             {
-              "name": "Interleaving String",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Interleaving+String+problem"
+              "title": "Interleaving String",
+              "link": "https://leetcode.com/problems/interleaving-string/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Catching Cheaters",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Catching+Cheaters+problem"
+              "title": "Catching Cheaters",
+              "link": "https://codeforces.com/problemset/problem/1446/B",
+              "difficulty": "Hard"
             },
             {
-              "name": "Knight Probability in Chessboard",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Knight+Probability+in+Chessboard+problem"
+              "title": "Knight Probability in Chessboard",
+              "link": "https://leetcode.com/problems/knight-probability-in-chessboard/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Traveler",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Traveler+problem"
+              "title": "Traveler",
+              "link": "https://atcoder.jp/contests/abc197/tasks/abc197_e",
+              "difficulty": "Hard"
             },
             {
-              "name": "Stone Game IV",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Stone+Game+IV+problem"
+              "title": "Stone Game IV",
+              "link": "https://leetcode.com/problems/stone-game-iv/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Clear the String",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Clear+the+String+problem"
+              "title": "Clear the String",
+              "link": "https://codeforces.com/problemset/problem/1132/F",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Flipping Signs",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Flipping+Signs+problem"
+              "title": "Flipping Signs",
+              "link": "https://atcoder.jp/contests/abc125/tasks/abc125_d",
+              "difficulty": "Medium"
             },
             {
-              "name": "Arithmetic Expressions",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Arithmetic+Expressions+problem"
+              "title": "Arithmetic Expressions",
+              "link": "https://www.hackerrank.com/challenges/arithmetic-expressions/problem",
+              "difficulty": "Hard"
             },
             {
-              "name": "Knapsack for All Subsets",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Knapsack+for+All+Subsets+problem"
+              "title": "Knapsack for All Subsets",
+              "link": "https://atcoder.jp/contests/abc169/tasks/abc169_f",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Number of Ways to Rearrange Sticks With K Sticks Visible",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Number+of+Ways+to+Rearrange+Sticks+With+K+Sticks+Visible+problem"
+              "title": "Number of Ways to Rearrange Sticks With K Sticks Visible",
+              "link": "https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Potion",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Potion+problem"
+              "title": "Potion",
+              "link": "https://atcoder.jp/contests/abc192/tasks/abc192_f",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Don't Be a Subsequenc e",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Don't+Be+a+Subsequenc+e+problem"
+              "title": "Don't Be a Subsequenc e",
+              "link": "https://atcoder.jp/contests/arc081/tasks/arc081_c",
+              "difficulty": "Hard"
             },
             {
-              "name": "Match Matching",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Match+Matching+problem"
+              "title": "Match Matching",
+              "link": "https://atcoder.jp/contests/abc118/tasks/abc118_d",
+              "difficulty": "Medium"
             },
             {
-              "name": "TV Game",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=TV+Game+problem"
+              "title": "TV Game",
+              "link": "https://codeforces.com/problemset/problem/31/E",
+              "difficulty": "Medium"
             },
             {
-              "name": "Maximum Height by Stacking Cuboids",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Maximum+Height+by+Stacking+Cuboids+problem"
+              "title": "Maximum Height by Stacking Cuboids",
+              "link": "https://leetcode.com/problems/maximum-height-by-stacking-cuboids/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Number of Ways of Cutting a Pizza",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Number+of+Ways+of+Cutting+a+Pizza+problem"
+              "title": "Number of Ways of Cutting a Pizza",
+              "link": "https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Paint House III",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Paint+House+III+problem"
+              "title": "Paint House III",
+              "link": "https://leetcode.com/problems/paint-house-iii/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Valid Permutation s for DI Sequence",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Valid+Permutation+s+for+DI+Sequence+problem"
+              "title": "Valid Permutation s for DI Sequence",
+              "link": "https://leetcode.com/problems/valid-permutations-for-di-sequence/",
+              "difficulty": "Hard"
             }
           ]
         }
@@ -1187,64 +1187,64 @@
           "name": "Level 1",
           "questions": [
             {
-              "name": "Plug-in",
-              "difficulty": "Easy",
-              "link": "https://www.google.com/search?q=Plug-in+problem"
+              "title": "Plug-in",
+              "link": "https://codeforces.com/problemset/problem/81/A",
+              "difficulty": "Easy"
             },
             {
-              "name": "Concert Tickets",
-              "difficulty": "Easy",
-              "link": "https://www.google.com/search?q=Concert+Tickets+problem"
+              "title": "Concert Tickets",
+              "link": "https://cses.fi/problemset/task/1091",
+              "difficulty": "Easy"
             },
             {
-              "name": "List Removals",
-              "difficulty": "Easy",
-              "link": "https://www.google.com/search?q=List+Removals+problem"
+              "title": "List Removals",
+              "link": "https://cses.fi/problemset/task/1749",
+              "difficulty": "Easy"
             },
             {
-              "name": "Write and Erase",
-              "difficulty": "Easy",
-              "link": "https://www.google.com/search?q=Write+and+Erase+problem"
+              "title": "Write and Erase",
+              "link": "https://atcoder.jp/contests/abc073/tasks/abc073_c",
+              "difficulty": "Easy"
             },
             {
-              "name": "Registration system",
-              "difficulty": "Easy",
-              "link": "https://www.google.com/search?q=Registration+system+problem"
+              "title": "Registration system",
+              "link": "https://codeforces.com/problemset/problem/4/C",
+              "difficulty": "Easy"
             },
             {
-              "name": "Swappable",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Swappable+problem"
+              "title": "Swappable",
+              "link": "https://atcoder.jp/contests/abc206/tasks/abc206_c",
+              "difficulty": "Medium"
             },
             {
-              "name": "Nearest Smaller Values",
-              "difficulty": "Easy",
-              "link": "https://www.google.com/search?q=Nearest+Smaller+Values+problem"
+              "title": "Nearest Smaller Values",
+              "link": "https://cses.fi/problemset/task/1645",
+              "difficulty": "Easy"
             },
             {
-              "name": "Chat Order",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Chat+Order+problem"
+              "title": "Chat Order",
+              "link": "https://codeforces.com/problemset/problem/637/B",
+              "difficulty": "Medium"
             },
             {
-              "name": "Catch Overflow!",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Catch+Overflow!+problem"
+              "title": "Catch Overflow!",
+              "link": "https://codeforces.com/problemset/problem/1175/B",
+              "difficulty": "Medium"
             },
             {
-              "name": "Replacing",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Replacing+problem"
+              "title": "Replacing",
+              "link": "https://atcoder.jp/contests/abc171/tasks/abc171_d",
+              "difficulty": "Medium"
             },
             {
-              "name": "Valeriy and Deque",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Valeriy+and+Deque+problem"
+              "title": "Valeriy and Deque",
+              "link": "https://codeforces.com/problemset/problem/1179/A",
+              "difficulty": "Medium"
             },
             {
-              "name": "Okabe and Boxes",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Okabe+and+Boxes+problem"
+              "title": "Okabe and Boxes",
+              "link": "https://codeforces.com/problemset/problem/821/C",
+              "difficulty": "Medium"
             }
           ]
         },
@@ -1252,64 +1252,64 @@
           "name": "Level 2",
           "questions": [
             {
-              "name": "Longest Balanced Substring II",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Longest+Balanced+Substring+II+problem"
+              "title": "Longest Balanced Substring II",
+              "link": "https://leetcode.com/problems/longest-balanced-substring-ii/",
+              "difficulty": "Medium"
             },
             {
-              "name": "LR insertion",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=LR+insertion+problem"
+              "title": "LR insertion",
+              "link": "https://atcoder.jp/contests/abc237/tasks/abc237_d",
+              "difficulty": "Medium"
             },
             {
-              "name": "Simple String Queries",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Simple+String+Queries+problem"
+              "title": "Simple String Queries",
+              "link": "https://atcoder.jp/contests/abc157/tasks/abc157_e",
+              "difficulty": "Medium"
             },
             {
-              "name": "132 Pattern",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=132+Pattern+problem"
+              "title": "132 Pattern",
+              "link": "https://leetcode.com/problems/132-pattern/",
+              "difficulty": "Medium"
             },
             {
-              "name": "String Formation",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=String+Formation+problem"
+              "title": "String Formation",
+              "link": "https://atcoder.jp/contests/abc158/tasks/abc158_d",
+              "difficulty": "Medium"
             },
             {
-              "name": "Movie Festival",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Movie+Festival+problem"
+              "title": "Movie Festival",
+              "link": "https://cses.fi/problemset/task/1629",
+              "difficulty": "Medium"
             },
             {
-              "name": "Pair of Balls",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Pair+of+Balls+problem"
+              "title": "Pair of Balls",
+              "link": "https://atcoder.jp/contests/abc216/tasks/abc216_d",
+              "difficulty": "Medium"
             },
             {
-              "name": "Snuke's Coloring",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Snuke's+Coloring+problem"
+              "title": "Snuke's Coloring",
+              "link": "https://atcoder.jp/contests/abc045/tasks/arc061_b",
+              "difficulty": "Medium"
             },
             {
-              "name": "Number of Visible People in a Queue",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Number+of+Visible+People+in+a+Queue+problem"
+              "title": "Number of Visible People in a Queue",
+              "link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Smallest Range Covering Elements from K Lists",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Smallest+Range+Covering+Elements+from+K+Lists+problem"
+              "title": "Smallest Range Covering Elements from K Lists",
+              "link": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Subarray With Elements Greater Than Varying Threshold",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Subarray+With+Elements+Greater+Than+Varying+Threshold+problem"
+              "title": "Subarray With Elements Greater Than Varying Threshold",
+              "link": "https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Special Substrings",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Special+Substrings+problem"
+              "title": "Special Substrings",
+              "link": "https://cses.fi/problemset/task/2186/",
+              "difficulty": "Hard"
             }
           ]
         },
@@ -1317,64 +1317,64 @@
           "name": "Level 3",
           "questions": [
             {
-              "name": "Recommend ations",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Recommend+ations+problem"
+              "title": "Recommend ations",
+              "link": "https://codeforces.com/contest/2042/problem/D",
+              "difficulty": "Hard"
             },
             {
-              "name": "Smart Infants",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Smart+Infants+problem"
+              "title": "Smart Infants",
+              "link": "https://atcoder.jp/contests/abc170/tasks/abc170_e",
+              "difficulty": "Hard"
             },
             {
-              "name": "Two Teams",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Two+Teams+problem"
+              "title": "Two Teams",
+              "link": "https://codeforces.com/problemset/problem/1154/E",
+              "difficulty": "Hard"
             },
             {
-              "name": "The Skyline Problem",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=The+Skyline+Problem+problem"
+              "title": "The Skyline Problem",
+              "link": "https://leetcode.com/problems/the-skyline-problem/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Find X-Sum of All K-Long Subarrays II",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Find+X-Sum+of+All+K-Long+Subarrays+II+problem"
+              "title": "Find X-Sum of All K-Long Subarrays II",
+              "link": "https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Minimal string",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Minimal+string+problem"
+              "title": "Minimal string",
+              "link": "https://codeforces.com/problemset/problem/797/C",
+              "difficulty": "Hard"
             },
             {
-              "name": "Find Building Where Alice and Bob Can Meet",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Find+Building+Where+Alice+and+Bob+Can+Meet+problem"
+              "title": "Find Building Where Alice and Bob Can Meet",
+              "link": "https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Maximal Rectangle",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Maximal+Rectangle+problem"
+              "title": "Maximal Rectangle",
+              "link": "https://leetcode.com/problems/maximal-rectangle/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Pashmak and Parmida's problem",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Pashmak+and+Parmida's+problem+problem"
+              "title": "Pashmak and Parmida's problem",
+              "link": "https://codeforces.com/problemset/problem/459/D",
+              "difficulty": "Hard"
             },
             {
-              "name": "Flip and Rectangles",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Flip+and+Rectangles+problem"
+              "title": "Flip and Rectangles",
+              "link": "https://atcoder.jp/contests/arc081/tasks/arc081_d",
+              "difficulty": "Extreme"
             },
             {
-              "name": "OpenStreet Map",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=OpenStreet+Map+problem"
+              "title": "OpenStreet Map",
+              "link": "https://codeforces.com/problemset/problem/1195/E",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Physical Education Lessons",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Physical+Education+Lessons+problem"
+              "title": "Physical Education Lessons",
+              "link": "https://codeforces.com/contest/915/problem/E",
+              "difficulty": "Extreme"
             }
           ]
         }
@@ -1387,54 +1387,54 @@
           "name": "Combinatorics",
           "questions": [
             {
-              "name": "The Fair Nut and String",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=The+Fair+Nut+and+String+problem"
+              "title": "The Fair Nut and String",
+              "link": "https://codeforces.com/problemset/problem/1084/C",
+              "difficulty": "Medium"
             },
             {
-              "name": "Beautiful Numbers",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Beautiful+Numbers+problem"
+              "title": "Beautiful Numbers",
+              "link": "https://codeforces.com/problemset/problem/300/C",
+              "difficulty": "Hard"
             },
             {
-              "name": "Colorful Blocks",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Colorful+Blocks+problem"
+              "title": "Colorful Blocks",
+              "link": "https://atcoder.jp/contests/abc167/tasks/abc167_e",
+              "difficulty": "Hard"
             },
             {
-              "name": "The Intriguing Obsession",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=The+Intriguing+Obsession+problem"
+              "title": "The Intriguing Obsession",
+              "link": "https://codeforces.com/problemset/problem/869/C",
+              "difficulty": "Hard"
             },
             {
-              "name": "aab aba baa",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=aab+aba+baa+problem"
+              "title": "aab aba baa",
+              "link": "https://atcoder.jp/contests/abc202/tasks/abc202_d",
+              "difficulty": "Medium"
             },
             {
-              "name": "Dima and Two Sequences",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Dima+and+Two+Sequences+problem"
+              "title": "Dima and Two Sequences",
+              "link": "https://codeforces.com/problemset/problem/272/D",
+              "difficulty": "Medium"
             },
             {
-              "name": "NEQ",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=NEQ+problem"
+              "title": "NEQ",
+              "link": "https://atcoder.jp/contests/abc172/tasks/abc172_e",
+              "difficulty": "Hard"
             },
             {
-              "name": "Roaming",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Roaming+problem"
+              "title": "Roaming",
+              "link": "https://atcoder.jp/contests/abc156/tasks/abc156_e",
+              "difficulty": "Hard"
             },
             {
-              "name": "Christmas Party",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Christmas+Party+problem"
+              "title": "Christmas Party",
+              "link": "https://cses.fi/problemset/task/1717",
+              "difficulty": "Medium"
             },
             {
-              "name": "Placing Rooks",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Placing+Rooks+problem"
+              "title": "Placing Rooks",
+              "link": "https://codeforces.com/problemset/problem/1342/E",
+              "difficulty": "Extreme"
             }
           ]
         },
@@ -1442,54 +1442,54 @@
           "name": "Number Theory",
           "questions": [
             {
-              "name": "Throne",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Throne+problem"
+              "title": "Throne",
+              "link": "https://atcoder.jp/contests/abc186/tasks/abc186_e",
+              "difficulty": "Hard"
             },
             {
-              "name": "Disjoint Set of Common Divisors",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Disjoint+Set+of+Common+Divisors+problem"
+              "title": "Disjoint Set of Common Divisors",
+              "link": "https://atcoder.jp/contests/abc142/tasks/abc142_d",
+              "difficulty": "Medium"
             },
             {
-              "name": "Counting Divisors",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Counting+Divisors+problem"
+              "title": "Counting Divisors",
+              "link": "https://cses.fi/problemset/task/1713",
+              "difficulty": "Medium"
             },
             {
-              "name": "Longest Subsequenc e",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Longest+Subsequenc+e+problem"
+              "title": "Longest Subsequenc e",
+              "link": "https://codeforces.com/problemset/problem/632/D",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Sum of Divisors",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Sum+of+Divisors+problem"
+              "title": "Sum of Divisors",
+              "link": "https://cses.fi/problemset/task/1082",
+              "difficulty": "Medium"
             },
             {
-              "name": "Modular Equations",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Modular+Equations+problem"
+              "title": "Modular Equations",
+              "link": "https://codeforces.com/problemset/problem/495/B",
+              "difficulty": "Medium"
             },
             {
-              "name": "Remainder Minimization 2019",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Remainder+Minimization+2019+problem"
+              "title": "Remainder Minimization 2019",
+              "link": "https://atcoder.jp/contests/abc133/tasks/abc133_c",
+              "difficulty": "Medium"
             },
             {
-              "name": "Rational Resistance",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Rational+Resistance+problem"
+              "title": "Rational Resistance",
+              "link": "https://codeforces.com/problemset/problem/343/A",
+              "difficulty": "Medium"
             },
             {
-              "name": "Double Factorial",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Double+Factorial+problem"
+              "title": "Double Factorial",
+              "link": "https://atcoder.jp/contests/abc148/tasks/abc148_e",
+              "difficulty": "Hard"
             },
             {
-              "name": "Dima and Lisa",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Dima+and+Lisa+problem"
+              "title": "Dima and Lisa",
+              "link": "https://codeforces.com/problemset/problem/584/D",
+              "difficulty": "Hard"
             }
           ]
         },
@@ -1497,64 +1497,64 @@
           "name": "Mixed Practice",
           "questions": [
             {
-              "name": "Factorization",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Factorization+problem"
+              "title": "Factorization",
+              "link": "https://atcoder.jp/contests/abc110/tasks/abc110_d",
+              "difficulty": "Medium"
             },
             {
-              "name": "Divide Both",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Divide+Both+problem"
+              "title": "Divide Both",
+              "link": "https://atcoder.jp/contests/abc206/tasks/abc206_e",
+              "difficulty": "Hard"
             },
             {
-              "name": "Infinite Fence",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Infinite+Fence+problem"
+              "title": "Infinite Fence",
+              "link": "https://codeforces.com/problemset/problem/1260/C",
+              "difficulty": "Hard"
             },
             {
-              "name": "Not Divisible",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Not+Divisible+problem"
+              "title": "Not Divisible",
+              "link": "https://atcoder.jp/contests/abc170/tasks/abc170_d",
+              "difficulty": "Medium"
             },
             {
-              "name": "Devu and Flowers",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Devu+and+Flowers+problem"
+              "title": "Devu and Flowers",
+              "link": "https://codeforces.com/problemset/problem/451/E",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Tourist Problem",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Tourist+Problem+problem"
+              "title": "Tourist Problem",
+              "link": "https://codeforces.com/problemset/problem/340/C",
+              "difficulty": "Medium"
             },
             {
-              "name": "Sequence Sum",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Sequence+Sum+problem"
+              "title": "Sequence Sum",
+              "link": "https://atcoder.jp/contests/abc179/tasks/abc179_e",
+              "difficulty": "Hard"
             },
             {
-              "name": "Five, Five Everywhere",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Five,+Five+Everywhere+problem"
+              "title": "Five, Five Everywhere",
+              "link": "https://atcoder.jp/contests/abc096/tasks/abc096_d",
+              "difficulty": "Medium"
             },
             {
-              "name": "Cheerleader s",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Cheerleader+s+problem"
+              "title": "Cheerleader s",
+              "link": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2906",
+              "difficulty": "Medium"
             },
             {
-              "name": "GCD on Blackboard",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=GCD+on+Blackboard+problem"
+              "title": "GCD on Blackboard",
+              "link": "https://atcoder.jp/contests/abc125/tasks/abc125_c",
+              "difficulty": "Medium"
             },
             {
-              "name": "Div Game",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Div+Game+problem"
+              "title": "Div Game",
+              "link": "https://atcoder.jp/contests/abc169/tasks/abc169_d",
+              "difficulty": "Medium"
             },
             {
-              "name": "Devu and Birthday Celebration",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Devu+and+Birthday+Celebration+problem"
+              "title": "Devu and Birthday Celebration",
+              "link": "https://codeforces.com/problemset/problem/439/E",
+              "difficulty": "Extreme"
             }
           ]
         }
@@ -1567,29 +1567,29 @@
           "name": "Contribution Technique",
           "questions": [
             {
-              "name": "Imbalanced Array",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Imbalanced+Array+problem"
+              "title": "Imbalanced Array",
+              "link": "https://codeforces.com/problemset/problem/817/D",
+              "difficulty": "Hard"
             },
             {
-              "name": "Maximum and Minimum Sums of at Most Size K Subsequenc es",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Maximum+and+Minimum+Sums+of+at+Most+Size+K+Subsequenc+es+problem"
+              "title": "Maximum and Minimum Sums of at Most Size K Subsequenc es",
+              "link": "https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subsequences/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Power of Heroes",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Power+of+Heroes+problem"
+              "title": "Power of Heroes",
+              "link": "https://leetcode.com/problems/power-of-heroes/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Maximum Score of a Good Subarray",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Maximum+Score+of+a+Good+Subarray+problem"
+              "title": "Maximum Score of a Good Subarray",
+              "link": "https://leetcode.com/problems/maximum-score-of-a-good-subarray/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Sum of Total Strength of Wizards",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Sum+of+Total+Strength+of+Wizards+problem"
+              "title": "Sum of Total Strength of Wizards",
+              "link": "https://leetcode.com/problems/sum-of-total-strength-of-wizards/",
+              "difficulty": "Hard"
             }
           ]
         },
@@ -1597,29 +1597,29 @@
           "name": "Prefix Sum",
           "questions": [
             {
-              "name": "Good Subarrays",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Good+Subarrays+problem"
+              "title": "Good Subarrays",
+              "link": "https://codeforces.com/problemset/problem/1398/C",
+              "difficulty": "Medium"
             },
             {
-              "name": "Subarray Sums II",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Subarray+Sums+II+problem"
+              "title": "Subarray Sums II",
+              "link": "https://cses.fi/problemset/task/1661",
+              "difficulty": "Medium"
             },
             {
-              "name": "Forest Queries",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Forest+Queries+problem"
+              "title": "Forest Queries",
+              "link": "https://cses.fi/problemset/task/1652",
+              "difficulty": "Medium"
             },
             {
-              "name": "Increment Submatrices by One",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Increment+Submatrices+by+One+problem"
+              "title": "Increment Submatrices by One",
+              "link": "https://leetcode.com/problems/increment-submatrices-by-one/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Stamping the Grid",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Stamping+the+Grid+problem"
+              "title": "Stamping the Grid",
+              "link": "https://leetcode.com/problems/stamping-the-grid/",
+              "difficulty": "Hard"
             }
           ]
         },
@@ -1627,114 +1627,114 @@
           "name": "Mixed Practice",
           "questions": [
             {
-              "name": "Number of Submatrices That Sum to Target",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Number+of+Submatrices+That+Sum+to+Target+problem"
+              "title": "Number of Submatrices That Sum to Target",
+              "link": "https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Maximum and Minimum Sums of at Most Size K Subarrays",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Maximum+and+Minimum+Sums+of+at+Most+Size+K+Subarrays+problem"
+              "title": "Maximum and Minimum Sums of at Most Size K Subarrays",
+              "link": "https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subarrays/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Max Sum of Rectangle No Larger Than K",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Max+Sum+of+Rectangle+No+Larger+Than+K+problem"
+              "title": "Max Sum of Rectangle No Larger Than K",
+              "link": "https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Sum of Subsequenc e Widths",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Sum+of+Subsequenc+e+Widths+problem"
+              "title": "Sum of Subsequenc e Widths",
+              "link": "https://leetcode.com/problems/sum-of-subsequence-widths/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Star sky",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Star+sky+problem"
+              "title": "Star sky",
+              "link": "https://codeforces.com/problemset/problem/835/C",
+              "difficulty": "Medium"
             },
             {
-              "name": "AtCoder Express 2",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=AtCoder+Express+2+problem"
+              "title": "AtCoder Express 2",
+              "link": "https://atcoder.jp/contests/abc106/tasks/abc106_d",
+              "difficulty": "Medium"
             },
             {
-              "name": "Almost Difference",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Almost+Difference+problem"
+              "title": "Almost Difference",
+              "link": "https://codeforces.com/problemset/problem/903/D",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Snuke Prime",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Snuke+Prime+problem"
+              "title": "Snuke Prime",
+              "link": "https://atcoder.jp/contests/abc188/tasks/abc188_d",
+              "difficulty": "Medium"
             },
             {
-              "name": "Count Subarrays With Fixed Bounds",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Count+Subarrays+With+Fixed+Bounds+problem"
+              "title": "Count Subarrays With Fixed Bounds",
+              "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Gargari and Bishops",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Gargari+and+Bishops+problem"
+              "title": "Gargari and Bishops",
+              "link": "https://codeforces.com/problemset/problem/463/C",
+              "difficulty": "Hard"
             },
             {
-              "name": "Stable Subarrays With Equal Boundary and Interior Sum",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Stable+Subarrays+With+Equal+Boundary+and+Interior+Sum+problem"
+              "title": "Stable Subarrays With Equal Boundary and Interior Sum",
+              "link": "https://leetcode.com/problems/stable-subarrays-with-equal-boundary-and-interior-sum/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Weird Sum",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Weird+Sum+problem"
+              "title": "Weird Sum",
+              "link": "https://codeforces.com/problemset/problem/1648/A",
+              "difficulty": "Medium"
             },
             {
-              "name": "Total Hamming Distance",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Total+Hamming+Distance+problem"
+              "title": "Total Hamming Distance",
+              "link": "https://leetcode.com/problems/total-hamming-distance/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Count the Number of Beautiful Subarrays",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Count+the+Number+of+Beautiful+Subarrays+problem"
+              "title": "Count the Number of Beautiful Subarrays",
+              "link": "https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Maximum Subarray Sum II",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Maximum+Subarray+Sum+II+problem"
+              "title": "Maximum Subarray Sum II",
+              "link": "https://cses.fi/problemset/task/1644",
+              "difficulty": "Medium"
             },
             {
-              "name": "Squared Error",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Squared+Error+problem"
+              "title": "Squared Error",
+              "link": "https://atcoder.jp/contests/abc194/tasks/abc194_c",
+              "difficulty": "Medium"
             },
             {
-              "name": "Maximum Subarray Sum With Length Divisible by K",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Maximum+Subarray+Sum+With+Length+Divisible+by+K+problem"
+              "title": "Maximum Subarray Sum With Length Divisible by K",
+              "link": "https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Make Sum Divisible by P",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Make+Sum+Divisible+by+P+problem"
+              "title": "Make Sum Divisible by P",
+              "link": "https://leetcode.com/problems/make-sum-divisible-by-p/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Sum of Absolute Differences in a Sorted Array",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Sum+of+Absolute+Differences+in+a+Sorted+Array+problem"
+              "title": "Sum of Absolute Differences in a Sorted Array",
+              "link": "https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Corporate Flight Bookings",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Corporate+Flight+Bookings+problem"
+              "title": "Corporate Flight Bookings",
+              "link": "https://leetcode.com/problems/corporate-flight-bookings/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Vowels of All Substrings",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Vowels+of+All+Substrings+problem"
+              "title": "Vowels of All Substrings",
+              "link": "https://leetcode.com/problems/vowels-of-all-substrings/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Interesting Story",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Interesting+Story+problem"
+              "title": "Interesting Story",
+              "link": "https://codeforces.com/problemset/problem/1551/C",
+              "difficulty": "Medium"
             }
           ]
         }
@@ -1747,29 +1747,29 @@
           "name": "Bit Trie",
           "questions": [
             {
-              "name": "Maximum XOR subarray",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Maximum+XOR+subarray+problem"
+              "title": "Maximum XOR subarray",
+              "link": "https://marisaoj.com/problem/240",
+              "difficulty": "Medium"
             },
             {
-              "name": "Shorten the Array",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Shorten+the+Array+problem"
+              "title": "Shorten the Array",
+              "link": "https://codeforces.com/contest/2093/problem/G",
+              "difficulty": "Hard"
             },
             {
-              "name": "Sausage Maximization",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Sausage+Maximization+problem"
+              "title": "Sausage Maximization",
+              "link": "https://codeforces.com/problemset/problem/282/E",
+              "difficulty": "Extreme"
             },
             {
-              "name": "XOR Inverse",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=XOR+Inverse+problem"
+              "title": "XOR Inverse",
+              "link": "https://codeforces.com/contest/1416/problem/C",
+              "difficulty": "Medium"
             },
             {
-              "name": "Maximum Subarray XOR with Bounded Range",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Maximum+Subarray+XOR+with+Bounded+Range+problem"
+              "title": "Maximum Subarray XOR with Bounded Range",
+              "link": "https://leetcode.com/problems/maximum-subarray-xor-with-bounded-range/",
+              "difficulty": "Hard"
             }
           ]
         },
@@ -1777,29 +1777,29 @@
           "name": "String Trie",
           "questions": [
             {
-              "name": "Prefix queries",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Prefix+queries+problem"
+              "title": "Prefix queries",
+              "link": "https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/prefix-queries-3-2c111491/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Query On Strings",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Query+On+Strings+problem"
+              "title": "Query On Strings",
+              "link": "https://www.codechef.com/problems/NPLFLF",
+              "difficulty": "Hard"
             },
             {
-              "name": "Good Substrings",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Good+Substrings+problem"
+              "title": "Good Substrings",
+              "link": "https://codeforces.com/problemset/problem/271/D",
+              "difficulty": "Hard"
             },
             {
-              "name": "Palindrome Pairs",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Palindrome+Pairs+problem"
+              "title": "Palindrome Pairs",
+              "link": "https://leetcode.com/problems/palindrome-pairs/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Prefix and Suffix Search",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Prefix+and+Suffix+Search+problem"
+              "title": "Prefix and Suffix Search",
+              "link": "https://leetcode.com/problems/prefix-and-suffix-search/",
+              "difficulty": "Hard"
             }
           ]
         },
@@ -1807,134 +1807,134 @@
           "name": "Mixed Practice",
           "questions": [
             {
-              "name": "Compare string",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Compare+string+problem"
+              "title": "Compare string",
+              "link": "https://marisaoj.com/problem/244",
+              "difficulty": "Medium"
             },
             {
-              "name": "A Lot of Games",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=A+Lot+of+Games+problem"
+              "title": "A Lot of Games",
+              "link": "https://codeforces.com/problemset/problem/455/B",
+              "difficulty": "Hard"
             },
             {
-              "name": "Report",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Report+problem"
+              "title": "Report",
+              "link": "https://marisaoj.com/problem/241",
+              "difficulty": "Medium"
             },
             {
-              "name": "Xor Queries",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Xor+Queries+problem"
+              "title": "Xor Queries",
+              "link": "https://www.codechef.com/problems/XRQRS",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Gotham PD",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Gotham+PD+problem"
+              "title": "Gotham PD",
+              "link": "https://www.codechef.com/problems/GPD",
+              "difficulty": "Hard"
             },
             {
-              "name": "Collapsing Strings",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Collapsing+Strings+problem"
+              "title": "Collapsing Strings",
+              "link": "https://codeforces.com/problemset/problem/1902/E",
+              "difficulty": "Hard"
             },
             {
-              "name": "Search Engine",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Search+Engine+problem"
+              "title": "Search Engine",
+              "link": "https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/search-engine/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Vasiliy's Multiset",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Vasiliy's+Multiset+problem"
+              "title": "Vasiliy's Multiset",
+              "link": "https://codeforces.com/problemset/problem/706/D",
+              "difficulty": "Hard"
             },
             {
-              "name": "XOR-path on tree",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=XOR-path+on+tree+problem"
+              "title": "XOR-path on tree",
+              "link": "https://marisaoj.com/problem/630",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Stream of Characters",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Stream+of+Characters+problem"
+              "title": "Stream of Characters",
+              "link": "https://leetcode.com/problems/stream-of-characters/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Nikitosh and xor",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Nikitosh+and+xor+problem"
+              "title": "Nikitosh and xor",
+              "link": "https://www.codechef.com/problems/REBXOR",
+              "difficulty": "Hard"
             },
             {
-              "name": "Poem",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Poem+problem"
+              "title": "Poem",
+              "link": "https://marisaoj.com/problem/426",
+              "difficulty": "Hard"
             },
             {
-              "name": "Maximum Genetic Difference Query",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Maximum+Genetic+Difference+Query+problem"
+              "title": "Maximum Genetic Difference Query",
+              "link": "https://leetcode.com/problems/maximum-genetic-difference-query/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Dr. Evil Underscores",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Dr.+Evil+Underscores+problem"
+              "title": "Dr. Evil Underscores",
+              "link": "https://codeforces.com/problemset/problem/1285/D",
+              "difficulty": "Hard"
             },
             {
-              "name": "Beautiful Substrings",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Beautiful+Substrings+problem"
+              "title": "Beautiful Substrings",
+              "link": "https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/beautiful-substrings-008a53a4/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Watto and Mechanism",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Watto+and+Mechanism+problem"
+              "title": "Watto and Mechanism",
+              "link": "https://codeforces.com/problemset/problem/514/C",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Special Subarrays",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Special+Subarrays+problem"
+              "title": "Special Subarrays",
+              "link": "https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/special-subarrays-4-99375442/",
+              "difficulty": "Hard"
             },
             {
-              "name": "SUBXOR - SubXor",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=SUBXOR+-+SubXor+problem"
+              "title": "SUBXOR - SubXor",
+              "link": "https://www.spoj.com/problems/SUBXOR/",
+              "difficulty": "Medium"
             },
             {
-              "name": "DICT - Search in the dictionary!",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=DICT+-+Search+in+the+dictionary!+problem"
+              "title": "DICT - Search in the dictionary!",
+              "link": "https://www.spoj.com/problems/DICT/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Spy Syndrome 2",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Spy+Syndrome+2+problem"
+              "title": "Spy Syndrome 2",
+              "link": "https://codeforces.com/problemset/problem/633/C",
+              "difficulty": "Hard"
             },
             {
-              "name": "Count Pairs With XOR in a Range",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Count+Pairs+With+XOR+in+a+Range+problem"
+              "title": "Count Pairs With XOR in a Range",
+              "link": "https://leetcode.com/problems/count-pairs-with-xor-in-a-range/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Old Berland Language",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Old+Berland+Language+problem"
+              "title": "Old Berland Language",
+              "link": "https://codeforces.com/problemset/problem/37/C",
+              "difficulty": "Hard"
             },
             {
-              "name": "Short Code",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Short+Code+problem"
+              "title": "Short Code",
+              "link": "https://codeforces.com/problemset/problem/965/E",
+              "difficulty": "Medium"
             },
             {
-              "name": "XOR paths",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=XOR+paths+problem"
+              "title": "XOR paths",
+              "link": "https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/xor-path-1-f7009db6/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Mass XOR queries",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Mass+XOR+queries+problem"
+              "title": "Mass XOR queries",
+              "link": "https://marisaoj.com/problem/242",
+              "difficulty": "Extreme"
             },
             {
-              "name": "The ancient book",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=The+ancient+book+problem"
+              "title": "The ancient book",
+              "link": "https://marisaoj.com/problem/654",
+              "difficulty": "Extreme"
             }
           ]
         }
@@ -1947,29 +1947,29 @@
           "name": "KMP or Z Algorithm",
           "questions": [
             {
-              "name": "Password",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Password+problem"
+              "title": "Password",
+              "link": "https://codeforces.com/problemset/problem/126/B",
+              "difficulty": "Medium"
             },
             {
-              "name": "Prefixes and Suffixes",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Prefixes+and+Suffixes+problem"
+              "title": "Prefixes and Suffixes",
+              "link": "https://codeforces.com/problemset/problem/432/D",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Number of Subarrays That Match a Pattern II",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Number+of+Subarrays+That+Match+a+Pattern+II+problem"
+              "title": "Number of Subarrays That Match a Pattern II",
+              "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Strings of Eternity",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Strings+of+Eternity+problem"
+              "title": "Strings of Eternity",
+              "link": "https://atcoder.jp/contests/abc135/tasks/abc135_f",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Finding Periods",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Finding+Periods+problem"
+              "title": "Finding Periods",
+              "link": "https://cses.fi/problemset/task/1733",
+              "difficulty": "Hard"
             }
           ]
         },
@@ -1977,29 +1977,29 @@
           "name": "Hashing",
           "questions": [
             {
-              "name": "Longest Duplicate Substring",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Longest+Duplicate+Substring+problem"
+              "title": "Longest Duplicate Substring",
+              "link": "https://leetcode.com/problems/longest-duplicate-substring/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Kefa and Watch",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Kefa+and+Watch+problem"
+              "title": "Kefa and Watch",
+              "link": "https://codeforces.com/problemset/problem/580/E",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Palindrome Queries",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Palindrome+Queries+problem"
+              "title": "Palindrome Queries",
+              "link": "https://cses.fi/problemset/task/2420",
+              "difficulty": "Hard"
             },
             {
-              "name": "Watto and Mechanism",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Watto+and+Mechanism+problem"
+              "title": "Watto and Mechanism",
+              "link": "https://codeforces.com/problemset/problem/514/C",
+              "difficulty": "Extreme"
             },
             {
-              "name": "ABCBAC",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=ABCBAC+problem"
+              "title": "ABCBAC",
+              "link": "https://atcoder.jp/contests/abc284/tasks/abc284_f",
+              "difficulty": "Extreme"
             }
           ]
         },
@@ -2007,29 +2007,29 @@
           "name": "Manacher's Algorithm",
           "questions": [
             {
-              "name": "Prefix-Suffix Palindrome (Hard version)",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Prefix-Suffix+Palindrome+(Hard+version)+problem"
+              "title": "Prefix-Suffix Palindrome (Hard version)",
+              "link": "https://codeforces.com/problemset/problem/1326/D2",
+              "difficulty": "Hard"
             },
             {
-              "name": "Palindromic Border",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Palindromic+Border+problem"
+              "title": "Palindromic Border",
+              "link": "https://www.hackerrank.com/challenges/palindromic-border/problem",
+              "difficulty": "Hard"
             },
             {
-              "name": "Palindrome Partitioning IV",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Palindrome+Partitioning+IV+problem"
+              "title": "Palindrome Partitioning IV",
+              "link": "https://leetcode.com/problems/palindrome-partitioning-iv/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Maximum Number of Non- overlapping Palindrome Substrings",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Maximum+Number+of+Non-+overlapping+Palindrome+Substrings+problem"
+              "title": "Maximum Number of Non- overlapping Palindrome Substrings",
+              "link": "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Enumerate Palindromes",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Enumerate+Palindromes+problem"
+              "title": "Enumerate Palindromes",
+              "link": "https://judge.yosupo.jp/problem/enumerate_palindromes",
+              "difficulty": "Hard"
             }
           ]
         },
@@ -2037,109 +2037,109 @@
           "name": "Mixed Practice",
           "questions": [
             {
-              "name": "EPALIN - Extend to Palindrome",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=EPALIN+-+Extend+to+Palindrome+problem"
+              "title": "EPALIN - Extend to Palindrome",
+              "link": "https://www.spoj.com/problems/EPALIN/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Finding Borders",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Finding+Borders+problem"
+              "title": "Finding Borders",
+              "link": "https://cses.fi/problemset/task/1732",
+              "difficulty": "Hard"
             },
             {
-              "name": "MUH and Cube Walls",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=MUH+and+Cube+Walls+problem"
+              "title": "MUH and Cube Walls",
+              "link": "https://codeforces.com/problemset/problem/471/D",
+              "difficulty": "Hard"
             },
             {
-              "name": "Longest Common Subpath",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Longest+Common+Subpath+problem"
+              "title": "Longest Common Subpath",
+              "link": "https://leetcode.com/problems/longest-common-subpath/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Repeating Substring",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Repeating+Substring+problem"
+              "title": "Repeating Substring",
+              "link": "https://cses.fi/problemset/task/2106",
+              "difficulty": "Hard"
             },
             {
-              "name": "Compress Words",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Compress+Words+problem"
+              "title": "Compress Words",
+              "link": "https://codeforces.com/problemset/problem/1200/E",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Distinct Echo Substrings",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Distinct+Echo+Substrings+problem"
+              "title": "Distinct Echo Substrings",
+              "link": "https://leetcode.com/problems/distinct-echo-substrings/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Games on a CD",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Games+on+a+CD+problem"
+              "title": "Games on a CD",
+              "link": "https://codeforces.com/problemset/problem/727/E",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Petr#",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Petr#+problem"
+              "title": "Petr#",
+              "link": "https://codeforces.com/problemset/problem/113/B",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Om Nom and Necklace",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Om+Nom+and+Necklace+problem"
+              "title": "Om Nom and Necklace",
+              "link": "https://codeforces.com/problemset/problem/526/D",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Sonya and Matrix Beauty",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Sonya+and+Matrix+Beauty+problem"
+              "title": "Sonya and Matrix Beauty",
+              "link": "https://codeforces.com/problemset/problem/1080/E",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Queries for Number of Palindromes",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Queries+for+Number+of+Palindromes+problem"
+              "title": "Queries for Number of Palindromes",
+              "link": "https://codeforces.com/problemset/problem/245/H",
+              "difficulty": "Hard"
             },
             {
-              "name": "Anthem of Berland",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Anthem+of+Berland+problem"
+              "title": "Anthem of Berland",
+              "link": "https://codeforces.com/problemset/problem/808/G",
+              "difficulty": "Extreme"
             },
             {
-              "name": "NUMOFPAL - Number of Palindromes",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=NUMOFPAL+-+Number+of+Palindromes+problem"
+              "title": "NUMOFPAL - Number of Palindromes",
+              "link": "https://www.spoj.com/problems/NUMOFPAL/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Check if DFS Strings Are Palindromes",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Check+if+DFS+Strings+Are+Palindromes+problem"
+              "title": "Check if DFS Strings Are Palindromes",
+              "link": "https://leetcode.com/problems/check-if-dfs-strings-are-palindromes/",
+              "difficulty": "Hard"
             },
             {
-              "name": "String Compression",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=String+Compression+problem"
+              "title": "String Compression",
+              "link": "https://codeforces.com/problemset/problem/825/F",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Palindrome Degree",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Palindrome+Degree+problem"
+              "title": "Palindrome Degree",
+              "link": "https://codeforces.com/problemset/problem/7/D",
+              "difficulty": "Extreme"
             },
             {
-              "name": "TEST",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=TEST+problem"
+              "title": "TEST",
+              "link": "https://codeforces.com/problemset/problem/25/E",
+              "difficulty": "Medium"
             },
             {
-              "name": "Check Transcriptio n",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Check+Transcriptio+n+problem"
+              "title": "Check Transcriptio n",
+              "link": "https://codeforces.com/problemset/problem/1056/E",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Palindromic characteristi cs",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Palindromic+characteristi+cs+problem"
+              "title": "Palindromic characteristi cs",
+              "link": "https://codeforces.com/problemset/problem/835/D",
+              "difficulty": "Hard"
             },
             {
-              "name": "Who Says a Pun?",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Who+Says+a+Pun?+problem"
+              "title": "Who Says a Pun?",
+              "link": "https://atcoder.jp/contests/abc141/tasks/abc141_e",
+              "difficulty": "Hard"
             }
           ]
         }
@@ -2152,29 +2152,29 @@
           "name": "Basic Point Updates & Range Queries",
           "questions": [
             {
-              "name": "Xenia and Bit Operations",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Xenia+and+Bit+Operations+problem"
+              "title": "Xenia and Bit Operations",
+              "link": "https://codeforces.com/problemset/problem/339/D",
+              "difficulty": "Medium"
             },
             {
-              "name": "Sereja and Brackets",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Sereja+and+Brackets+problem"
+              "title": "Sereja and Brackets",
+              "link": "https://codeforces.com/problemset/problem/380/C",
+              "difficulty": "Hard"
             },
             {
-              "name": "GSS3 - Can you answer these queries III",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=GSS3+-+Can+you+answer+these+queries+III+problem"
+              "title": "GSS3 - Can you answer these queries III",
+              "link": "https://www.spoj.com/problems/GSS3/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Distinct Characters Queries",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Distinct+Characters+Queries+problem"
+              "title": "Distinct Characters Queries",
+              "link": "https://codeforces.com/problemset/problem/1234/D",
+              "difficulty": "Medium"
             },
             {
-              "name": "Messenger Simulator",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Messenger+Simulator+problem"
+              "title": "Messenger Simulator",
+              "link": "https://codeforces.com/problemset/problem/1288/E",
+              "difficulty": "Hard"
             }
           ]
         },
@@ -2182,29 +2182,29 @@
           "name": "Lazy Propagation & Range Updates",
           "questions": [
             {
-              "name": "HORRIBLE - Horrible Queries",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=HORRIBLE+-+Horrible+Queries+problem"
+              "title": "HORRIBLE - Horrible Queries",
+              "link": "https://www.spoj.com/problems/HORRIBLE/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Range Module",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Range+Module+problem"
+              "title": "Range Module",
+              "link": "https://leetcode.com/problems/range-module/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Anton and Tree",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Anton+and+Tree+problem"
+              "title": "Anton and Tree",
+              "link": "https://codeforces.com/problemset/problem/242/E",
+              "difficulty": "Hard"
             },
             {
-              "name": "MULTQ3 - Multiples of 3",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=MULTQ3+-+Multiples+of+3+problem"
+              "title": "MULTQ3 - Multiples of 3",
+              "link": "https://www.spoj.com/problems/MULTQ3/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Polynomial Queries",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Polynomial+Queries+problem"
+              "title": "Polynomial Queries",
+              "link": "https://cses.fi/problemset/task/1736",
+              "difficulty": "Extreme"
             }
           ]
         },
@@ -2212,29 +2212,29 @@
           "name": "Kth Type & Merge Sort Tree",
           "questions": [
             {
-              "name": "K-query",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=K-query+problem"
+              "title": "K-query",
+              "link": "https://www.spoj.com/problems/KQUERY/",
+              "difficulty": "Medium"
             },
             {
-              "name": "The k-th number",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=The+k-th+number+problem"
+              "title": "The k-th number",
+              "link": "https://www.spoj.com/problems/MKTHNUM/",
+              "difficulty": "Extreme"
             },
             {
-              "name": "List Removals",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=List+Removals+problem"
+              "title": "List Removals",
+              "link": "https://cses.fi/problemset/task/1749",
+              "difficulty": "Medium"
             },
             {
-              "name": "Enemy is weak",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Enemy+is+weak+problem"
+              "title": "Enemy is weak",
+              "link": "https://codeforces.com/problemset/problem/61/E",
+              "difficulty": "Hard"
             },
             {
-              "name": "One Occurrence",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=One+Occurrence+problem"
+              "title": "One Occurrence",
+              "link": "https://codeforces.com/problemset/problem/1000/F",
+              "difficulty": "Extreme"
             }
           ]
         },
@@ -2242,29 +2242,29 @@
           "name": "Coordinate Compression & Offline Queries",
           "questions": [
             {
-              "name": "Rectangle Area II",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Rectangle+Area+II+problem"
+              "title": "Rectangle Area II",
+              "link": "https://leetcode.com/problems/rectangle-area-ii/",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Salary Queries",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Salary+Queries+problem"
+              "title": "Salary Queries",
+              "link": "https://cses.fi/problemset/task/1144",
+              "difficulty": "Hard"
             },
             {
-              "name": "Water Tree",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Water+Tree+problem"
+              "title": "Water Tree",
+              "link": "https://codeforces.com/problemset/problem/343/D",
+              "difficulty": "Hard"
             },
             {
-              "name": "Points",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Points+problem"
+              "title": "Points",
+              "link": "https://codeforces.com/problemset/problem/19/D",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Petya and Array",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Petya+and+Array+problem"
+              "title": "Petya and Array",
+              "link": "https://codeforces.com/problemset/problem/1042/D",
+              "difficulty": "Hard"
             }
           ]
         },
@@ -2272,154 +2272,154 @@
           "name": "Mixed Practice",
           "questions": [
             {
-              "name": "Count Substrings That Satisfy K-Constraint II",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Count+Substrings+That+Satisfy+K-Constraint+II+problem"
+              "title": "Count Substrings That Satisfy K-Constraint II",
+              "link": "https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-ii/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Palindromic Path Queries in a Tree",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Palindromic+Path+Queries+in+a+Tree+problem"
+              "title": "Palindromic Path Queries in a Tree",
+              "link": "https://leetcode.com/problems/palindromic-path-queries-in-a-tree/",
+              "difficulty": "Hard"
             },
             {
-              "name": "A Simple Task",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=A+Simple+Task+problem"
+              "title": "A Simple Task",
+              "link": "https://codeforces.com/problemset/problem/558/E",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Separate Squares II",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Separate+Squares+II+problem"
+              "title": "Separate Squares II",
+              "link": "https://leetcode.com/problems/separate-squares-ii/",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Subtree Minimum Query",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Subtree+Minimum+Query+problem"
+              "title": "Subtree Minimum Query",
+              "link": "https://codeforces.com/problemset/problem/893/F",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Pizzeria Queries",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Pizzeria+Queries+problem"
+              "title": "Pizzeria Queries",
+              "link": "https://cses.fi/problemset/task/2206",
+              "difficulty": "Hard"
             },
             {
-              "name": "Handling Sum Queries After Update",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Handling+Sum+Queries+After+Update+problem"
+              "title": "Handling Sum Queries After Update",
+              "link": "https://leetcode.com/problems/handling-sum-queries-after-update/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Smaller Sum",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Smaller+Sum+problem"
+              "title": "Smaller Sum",
+              "link": "https://atcoder.jp/contests/abc339/tasks/abc339_g",
+              "difficulty": "Hard"
             },
             {
-              "name": "The Skyline Problem",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=The+Skyline+Problem+problem"
+              "title": "The Skyline Problem",
+              "link": "https://leetcode.com/problems/the-skyline-problem/",
+              "difficulty": "Hard"
             },
             {
-              "name": "INCSEQ - Increasing Sequences",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=INCSEQ+-+Increasing+Sequences+problem"
+              "title": "INCSEQ - Increasing Sequences",
+              "link": "https://www.spoj.com/problems/INCSEQ/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Ball",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Ball+problem"
+              "title": "Ball",
+              "link": "https://codeforces.com/problemset/problem/12/D",
+              "difficulty": "Hard"
             },
             {
-              "name": "Zip-line",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Zip-line+problem"
+              "title": "Zip-line",
+              "link": "https://codeforces.com/problemset/problem/650/D",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Fancy Sequence",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Fancy+Sequence+problem"
+              "title": "Fancy Sequence",
+              "link": "https://leetcode.com/problems/fancy-sequence/",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Prefix Sum Queries",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Prefix+Sum+Queries+problem"
+              "title": "Prefix Sum Queries",
+              "link": "https://cses.fi/problemset/task/2166",
+              "difficulty": "Hard"
             },
             {
-              "name": "LITE - Light Switching",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=LITE+-+Light+Switching+problem"
+              "title": "LITE - Light Switching",
+              "link": "https://www.spoj.com/problems/LITE/",
+              "difficulty": "Medium"
             },
             {
-              "name": "My Calendar III",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=My+Calendar+III+problem"
+              "title": "My Calendar III",
+              "link": "https://leetcode.com/problems/my-calendar-iii/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Count of Smaller Numbers After Self",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Count+of+Smaller+Numbers+After+Self+problem"
+              "title": "Count of Smaller Numbers After Self",
+              "link": "https://leetcode.com/problems/count-of-smaller-numbers-after-self/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Greedy Shopping",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Greedy+Shopping+problem"
+              "title": "Greedy Shopping",
+              "link": "https://codeforces.com/problemset/problem/1439/C",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Restore Permutation",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Restore+Permutation+problem"
+              "title": "Restore Permutation",
+              "link": "https://codeforces.com/problemset/problem/1208/D",
+              "difficulty": "Hard"
             },
             {
-              "name": "KGSS - Maximum Variance Segment Tree",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=KGSS+-+Maximum+Variance+Segment+Tree+problem"
+              "title": "KGSS - Maximum Variance Segment Tree",
+              "link": "https://www.spoj.com/problems/KGSS/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Pashmak and Parmida's problem",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Pashmak+and+Parmida's+problem+problem"
+              "title": "Pashmak and Parmida's problem",
+              "link": "https://codeforces.com/problemset/problem/459/D",
+              "difficulty": "Hard"
             },
             {
-              "name": "Please, another Queries on Array",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Please,+another+Queries+on+Array+problem"
+              "title": "Please, another Queries on Array",
+              "link": "https://codeforces.com/problemset/problem/1114/F",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Army Creation",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Army+Creation+problem"
+              "title": "Army Creation",
+              "link": "https://codeforces.com/problemset/problem/813/E",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Hotel Queries",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Hotel+Queries+problem"
+              "title": "Hotel Queries",
+              "link": "https://cses.fi/problemset/task/1143",
+              "difficulty": "Hard"
             },
             {
-              "name": "Second Largest Query",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Second+Largest+Query+problem"
+              "title": "Second Largest Query",
+              "link": "https://atcoder.jp/contests/abc343/tasks/abc343_f",
+              "difficulty": "Hard"
             },
             {
-              "name": "NICEDAY - The day of the competitors",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=NICEDAY+-+The+day+of+the+competitors+problem"
+              "title": "NICEDAY - The day of the competitors",
+              "link": "https://www.spoj.com/problems/NICEDAY/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Alone",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Alone+problem"
+              "title": "Alone",
+              "link": "https://atcoder.jp/contests/abc346/tasks/abc346_g",
+              "difficulty": "Medium"
             },
             {
-              "name": "Number of Pairs Satisfying Inequality",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Number+of+Pairs+Satisfying+Inequality+problem"
+              "title": "Number of Pairs Satisfying Inequality",
+              "link": "https://leetcode.com/problems/number-of-pairs-satisfying-inequality/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Distance Queries on a Tree",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Distance+Queries+on+a+Tree+problem"
+              "title": "Distance Queries on a Tree",
+              "link": "https://atcoder.jp/contests/abc294/tasks/abc294_g",
+              "difficulty": "Hard"
             },
             {
-              "name": "Operations on a Matrix",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Operations+on+a+Matrix+problem"
+              "title": "Operations on a Matrix",
+              "link": "https://atcoder.jp/contests/abc253/tasks/abc253_f",
+              "difficulty": "Extreme"
             }
           ]
         }
@@ -2432,99 +2432,99 @@
           "name": "Fundamental Ideas",
           "questions": [
             {
-              "name": "Subordinate s",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Subordinate+s+problem"
+              "title": "Subordinate s",
+              "link": "https://cses.fi/problemset/task/1674",
+              "difficulty": "Medium"
             },
             {
-              "name": "Tree Matching",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Tree+Matching+problem"
+              "title": "Tree Matching",
+              "link": "https://cses.fi/problemset/task/1130",
+              "difficulty": "Medium"
             },
             {
-              "name": "Journey",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Journey+problem"
+              "title": "Journey",
+              "link": "https://codeforces.com/problemset/problem/839/C",
+              "difficulty": "Medium"
             },
             {
-              "name": "Tree Cutting (Easy Version)",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Tree+Cutting+(Easy+Version)+problem"
+              "title": "Tree Cutting (Easy Version)",
+              "link": "https://codeforces.com/problemset/problem/1118/F1",
+              "difficulty": "Hard"
             },
             {
-              "name": "Sum in the tree",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Sum+in+the+tree+problem"
+              "title": "Sum in the tree",
+              "link": "https://codeforces.com/problemset/problem/1098/A",
+              "difficulty": "Medium"
             },
             {
-              "name": "Tree Queries",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Tree+Queries+problem"
+              "title": "Tree Queries",
+              "link": "https://codeforces.com/problemset/problem/1328/E",
+              "difficulty": "Hard"
             },
             {
-              "name": "Gardener and Tree",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Gardener+and+Tree+problem"
+              "title": "Gardener and Tree",
+              "link": "https://codeforces.com/problemset/problem/1593/E",
+              "difficulty": "Medium"
             },
             {
-              "name": "Tree Diameter",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Tree+Diameter+problem"
+              "title": "Tree Diameter",
+              "link": "https://cses.fi/problemset/task/1131",
+              "difficulty": "Medium"
             },
             {
-              "name": "PT07Z - Longest path in a tree",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=PT07Z+-+Longest+path+in+a+tree+problem"
+              "title": "PT07Z - Longest path in a tree",
+              "link": "https://www.spoj.com/problems/PT07Z/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Minimum Height Trees",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Minimum+Height+Trees+problem"
+              "title": "Minimum Height Trees",
+              "link": "https://leetcode.com/problems/minimum-height-trees/",
+              "difficulty": "Medium"
             },
             {
-              "name": "Tree Tag",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Tree+Tag+problem"
+              "title": "Tree Tag",
+              "link": "https://codeforces.com/problemset/problem/1404/B",
+              "difficulty": "Medium"
             },
             {
-              "name": "A Wide, Wide Graph",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=A+Wide,+Wide+Graph+problem"
+              "title": "A Wide, Wide Graph",
+              "link": "https://codeforces.com/problemset/problem/1805/D",
+              "difficulty": "Hard"
             },
             {
-              "name": "The Fair Nut and the Best Path",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=The+Fair+Nut+and+the+Best+Path+problem"
+              "title": "The Fair Nut and the Best Path",
+              "link": "https://codeforces.com/problemset/problem/1083/A",
+              "difficulty": "Hard"
             },
             {
-              "name": "Tree Restoring",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Tree+Restoring+problem"
+              "title": "Tree Restoring",
+              "link": "https://atcoder.jp/contests/agc005/tasks/agc005_c",
+              "difficulty": "Hard"
             },
             {
-              "name": "Three Paths on a Tree",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Three+Paths+on+a+Tree+problem"
+              "title": "Three Paths on a Tree",
+              "link": "https://codeforces.com/problemset/problem/1294/F",
+              "difficulty": "Hard"
             },
             {
-              "name": "Maximum Distributed Tree",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Maximum+Distributed+Tree+problem"
+              "title": "Maximum Distributed Tree",
+              "link": "https://codeforces.com/problemset/problem/1401/D",
+              "difficulty": "Hard"
             },
             {
-              "name": "Sum of Maximum Weights",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Sum+of+Maximum+Weights+problem"
+              "title": "Sum of Maximum Weights",
+              "link": "https://atcoder.jp/contests/abc214/tasks/abc214_d",
+              "difficulty": "Hard"
             },
             {
-              "name": "Imbalance Value of a Tree",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Imbalance+Value+of+a+Tree+problem"
+              "title": "Imbalance Value of a Tree",
+              "link": "https://codeforces.com/problemset/problem/915/F",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Count Valid Paths in a Tree",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Count+Valid+Paths+in+a+Tree+problem"
+              "title": "Count Valid Paths in a Tree",
+              "link": "https://leetcode.com/problems/count-valid-paths-in-a-tree/",
+              "difficulty": "Hard"
             }
           ]
         },
@@ -2532,94 +2532,94 @@
           "name": "Intermediate Ideas",
           "questions": [
             {
-              "name": "Vasya and a Tree",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Vasya+and+a+Tree+problem"
+              "title": "Vasya and a Tree",
+              "link": "https://codeforces.com/problemset/problem/1076/E",
+              "difficulty": "Hard"
             },
             {
-              "name": "Tree of Coprimes",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Tree+of+Coprimes+problem"
+              "title": "Tree of Coprimes",
+              "link": "https://leetcode.com/problems/tree-of-coprimes/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Maximum Genetic Difference Query",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Maximum+Genetic+Difference+Query+problem"
+              "title": "Maximum Genetic Difference Query",
+              "link": "https://leetcode.com/problems/maximum-genetic-difference-query/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Kefa and Park",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Kefa+and+Park+problem"
+              "title": "Kefa and Park",
+              "link": "https://codeforces.com/problemset/problem/580/C",
+              "difficulty": "Medium"
             },
             {
-              "name": "Company Queries I",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Company+Queries+I+problem"
+              "title": "Company Queries I",
+              "link": "https://cses.fi/problemset/task/1687",
+              "difficulty": "Medium"
             },
             {
-              "name": "Company Queries II",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Company+Queries+II+problem"
+              "title": "Company Queries II",
+              "link": "https://cses.fi/problemset/task/1688",
+              "difficulty": "Medium"
             },
             {
-              "name": "Blood Cousins",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Blood+Cousins+problem"
+              "title": "Blood Cousins",
+              "link": "https://codeforces.com/problemset/problem/208/E",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Misha, Grisha and Underground",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Misha,+Grisha+and+Underground+problem"
+              "title": "Misha, Grisha and Underground",
+              "link": "https://codeforces.com/problemset/problem/832/D",
+              "difficulty": "Hard"
             },
             {
-              "name": "A and B and Lecture Rooms",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=A+and+B+and+Lecture+Rooms+problem"
+              "title": "A and B and Lecture Rooms",
+              "link": "https://codeforces.com/problemset/problem/519/E",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Tree Distances II",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Tree+Distances+II+problem"
+              "title": "Tree Distances II",
+              "link": "https://cses.fi/problemset/task/1133",
+              "difficulty": "Medium"
             },
             {
-              "name": "Maximum White Subtree",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Maximum+White+Subtree+problem"
+              "title": "Maximum White Subtree",
+              "link": "https://codeforces.com/problemset/problem/1324/F",
+              "difficulty": "Hard"
             },
             {
-              "name": "Tree Painting",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Tree+Painting+problem"
+              "title": "Tree Painting",
+              "link": "https://codeforces.com/problemset/problem/1187/E",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Subtree",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Subtree+problem"
+              "title": "Subtree",
+              "link": "https://atcoder.jp/contests/dp/tasks/dp_v",
+              "difficulty": "Hard"
             },
             {
-              "name": "Capital City",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Capital+City+problem"
+              "title": "Capital City",
+              "link": "https://codeforces.com/problemset/problem/219/D",
+              "difficulty": "Hard"
             },
             {
-              "name": "Ki",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Ki+problem"
+              "title": "Ki",
+              "link": "https://atcoder.jp/contests/abc138/tasks/abc138_d",
+              "difficulty": "Medium"
             },
             {
-              "name": "Fools and Roads",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Fools+and+Roads+problem"
+              "title": "Fools and Roads",
+              "link": "https://codeforces.com/problemset/problem/191/C",
+              "difficulty": "Hard"
             },
             {
-              "name": "Alyona and a Tree",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Alyona+and+a+Tree+problem"
+              "title": "Alyona and a Tree",
+              "link": "https://codeforces.com/problemset/problem/739/B",
+              "difficulty": "Hard"
             },
             {
-              "name": "Through Path",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Through+Path+problem"
+              "title": "Through Path",
+              "link": "https://atcoder.jp/contests/abc187/tasks/abc187_e",
+              "difficulty": "Medium"
             }
           ]
         },
@@ -2627,54 +2627,54 @@
           "name": "Advanced Ideas",
           "questions": [
             {
-              "name": "Palindromic Path Queries in a Tree",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Palindromic+Path+Queries+in+a+Tree+problem"
+              "title": "Palindromic Path Queries in a Tree",
+              "link": "https://leetcode.com/problems/palindromic-path-queries-in-a-tree/",
+              "difficulty": "Hard"
             },
             {
-              "name": "Subtree Queries",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Subtree+Queries+problem"
+              "title": "Subtree Queries",
+              "link": "https://cses.fi/problemset/task/1137",
+              "difficulty": "Medium"
             },
             {
-              "name": "Water Tree",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Water+Tree+problem"
+              "title": "Water Tree",
+              "link": "https://codeforces.com/problemset/problem/343/D",
+              "difficulty": "Medium"
             },
             {
-              "name": "New Year Tree",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=New+Year+Tree+problem"
+              "title": "New Year Tree",
+              "link": "https://codeforces.com/problemset/problem/620/E",
+              "difficulty": "Extreme"
             },
             {
-              "name": "Danil and a Part-time Job",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Danil+and+a+Part-time+Job+problem"
+              "title": "Danil and a Part-time Job",
+              "link": "https://codeforces.com/problemset/problem/877/E",
+              "difficulty": "Hard"
             },
             {
-              "name": "Propagating tree",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Propagating+tree+problem"
+              "title": "Propagating tree",
+              "link": "https://codeforces.com/problemset/problem/383/C",
+              "difficulty": "Hard"
             },
             {
-              "name": "Path Queries",
-              "difficulty": "Medium",
-              "link": "https://www.google.com/search?q=Path+Queries+problem"
+              "title": "Path Queries",
+              "link": "https://cses.fi/problemset/task/1138",
+              "difficulty": "Medium"
             },
             {
-              "name": "Distance Queries on a Tree",
-              "difficulty": "Extreme",
-              "link": "https://www.google.com/search?q=Distance+Queries+on+a+Tree+problem"
+              "title": "Distance Queries on a Tree",
+              "link": "https://atcoder.jp/contests/abc294/tasks/abc294_g",
+              "difficulty": "Extreme"
             },
             {
-              "name": "On Changing Tree",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=On+Changing+Tree+problem"
+              "title": "On Changing Tree",
+              "link": "https://codeforces.com/problemset/problem/396/C",
+              "difficulty": "Hard"
             },
             {
-              "name": "Count Descendants",
-              "difficulty": "Hard",
-              "link": "https://www.google.com/search?q=Count+Descendants+problem"
+              "title": "Count Descendants",
+              "link": "https://atcoder.jp/contests/abc202/tasks/abc202_e",
+              "difficulty": "Hard"
             }
           ]
         }

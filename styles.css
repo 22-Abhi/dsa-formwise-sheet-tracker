@@ -183,13 +183,30 @@ h1 {
   border-top: 1px solid var(--subtopic-border);
 }
 
-.question-item a {
+.question-link {
   color: var(--link);
   text-decoration: none;
+  font-weight: 600;
 }
 
-.question-item a:hover {
+.question-link:hover {
+  color: blue;
   text-decoration: underline;
+}
+
+.question-link-icon {
+  font-size: 12px;
+}
+
+.question-link-disabled {
+  color: var(--muted);
+  cursor: not-allowed;
+}
+
+.question-link-unavailable {
+  margin-left: 8px;
+  font-size: 12px;
+  font-weight: 500;
 }
 
 .badge {
