@@ -47,7 +47,7 @@ def parse_numbered_row(line: str) -> tuple[str, str]:
 
 def build_link(name: str) -> str:
     query = re.sub(r"\s+", "+", name.strip())
-    return f"https://www.google.com/search?q={query}+problem"
+    return f"https://www.google.com/search?btnI=1&q={query}+problem"
 
 
 def parse_structure(lines: list[str]) -> list[dict]:

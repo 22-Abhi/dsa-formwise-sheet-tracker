@@ -32,6 +32,16 @@ function questionId(topicName, subtopicName, questionName) {
   return `${safeKey(topicName)}::${safeKey(subtopicName)}::${safeKey(questionName)}`;
 }
 
+function directQuestionLink(rawLink, questionName) {
+  if (!rawLink) {
+    return `https://www.google.com/search?btnI=1&q=${encodeURIComponent(`${questionName} problem`)}`;
+  }
+  const isGoogleSearch = rawLink.includes("google.com/search?q=");
+  if (!isGoogleSearch) return rawLink;
+  const query = rawLink.split("q=")[1] || encodeURIComponent(`${questionName} problem`);
+  return `https://www.google.com/search?btnI=1&q=${query}`;
+}
+
 function loadStatusMap() {
   try {
     statusMap = JSON.parse(localStorage.getItem(STATUS_KEY) || "{}");
@@ -94,7 +104,7 @@ function render(topics) {
                     (q, index) => `
                     <li class="question-item">
                       <span class="q-index">${index + 1}</span>
-                      <a href="${q.link}" target="_blank" rel="noopener noreferrer">${q.name}</a>
+                      <a href="${directQuestionLink(q.link, q.name)}" target="_blank" rel="noopener noreferrer">${q.name}</a>
                       <span class="badge ${difficultyClass(q.difficulty)}">${q.difficulty}</span>
                       <label class="status-box" title="Mark completed">
                         <input
