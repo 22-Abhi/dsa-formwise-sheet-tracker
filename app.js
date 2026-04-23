@@ -4,6 +4,8 @@ const themeToggle = document.getElementById("themeToggle");
 
 let allTopics = [];
 const THEME_KEY = "dsa-sheet-theme";
+const STATUS_KEY = "dsa-sheet-status-map";
+let statusMap = {};
 
 function applyTheme(theme) {
   const isDark = theme === "dark";
@@ -22,6 +24,26 @@ function difficultyClass(diff) {
   return diff.toLowerCase();
 }
 
+function safeKey(value) {
+  return value.toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9\-]/g, "");
+}
+
+function questionId(topicName, subtopicName, questionName) {
+  return `${safeKey(topicName)}::${safeKey(subtopicName)}::${safeKey(questionName)}`;
+}
+
+function loadStatusMap() {
+  try {
+    statusMap = JSON.parse(localStorage.getItem(STATUS_KEY) || "{}");
+  } catch {
+    statusMap = {};
+  }
+}
+
+function saveStatusMap() {
+  localStorage.setItem(STATUS_KEY, JSON.stringify(statusMap));
+}
+
 function matchesQuery(topic, query) {
   if (!query) return true;
   const q = query.toLowerCase();
@@ -30,6 +52,13 @@ function matchesQuery(topic, query) {
     if (sub.name.toLowerCase().includes(q)) return true;
     return sub.questions.some((ques) => ques.name.toLowerCase().includes(q));
   });
+}
+
+function getCheckedCount(topicName, subName, questions) {
+  return questions.reduce((count, q) => {
+    const id = questionId(topicName, subName, q.name);
+    return count + (statusMap[id] ? 1 : 0);
+  }, 0);
 }
 
 function render(topics) {
@@ -47,14 +76,35 @@ function render(topics) {
           .map(
             (sub) => `
             <details class="subtopic">
-              <summary>${sub.name} <span class="muted">(${sub.questions.length} questions)</span></summary>
+              <summary>
+                <span>${sub.name}</span>
+                <span class="summary-right">
+                  <span class="progress-pill">${getCheckedCount(topic.name, sub.name, sub.questions)}/${sub.questions.length}</span>
+                </span>
+              </summary>
+              <div class="table-head">
+                <span>#</span>
+                <span>Problem Name</span>
+                <span>Difficulty</span>
+                <span>Status</span>
+              </div>
               <ol class="question-list">
                 ${sub.questions
                   .map(
-                    (q) => `
+                    (q, index) => `
                     <li class="question-item">
+                      <span class="q-index">${index + 1}</span>
                       <a href="${q.link}" target="_blank" rel="noopener noreferrer">${q.name}</a>
                       <span class="badge ${difficultyClass(q.difficulty)}">${q.difficulty}</span>
+                      <label class="status-box" title="Mark completed">
+                        <input
+                          type="checkbox"
+                          class="status-checkbox"
+                          data-id="${questionId(topic.name, sub.name, q.name)}"
+                          ${statusMap[questionId(topic.name, sub.name, q.name)] ? "checked" : ""}
+                        />
+                        <span>Done</span>
+                      </label>
                     </li>
                   `
                   )
@@ -100,6 +150,37 @@ searchInput.addEventListener("input", (event) => {
   render(filtered);
 });
 
+app.addEventListener("change", (event) => {
+  const target = event.target;
+  if (!(target instanceof HTMLInputElement)) return;
+  if (!target.classList.contains("status-checkbox")) return;
+
+  const id = target.dataset.id;
+  if (!id) return;
+
+  statusMap[id] = target.checked;
+  saveStatusMap();
+  const query = searchInput.value.trim();
+  const filtered = allTopics
+    .filter((t) => matchesQuery(t, query))
+    .map((topic) => ({
+      ...topic,
+      subtopics: topic.subtopics
+        .map((sub) => ({
+          ...sub,
+          questions: sub.questions.filter(
+            (q) =>
+              !query ||
+              q.name.toLowerCase().includes(query.toLowerCase()) ||
+              sub.name.toLowerCase().includes(query.toLowerCase()) ||
+              topic.name.toLowerCase().includes(query.toLowerCase())
+          ),
+        }))
+        .filter((sub) => sub.questions.length),
+    }));
+  render(filtered);
+});
+
 themeToggle.addEventListener("click", () => {
   const nextTheme = document.body.classList.contains("dark") ? "light" : "dark";
   applyTheme(nextTheme);
@@ -107,6 +188,7 @@ themeToggle.addEventListener("click", () => {
 });
 
 setupTheme();
+loadStatusMap();
 
 init().catch(() => {
   app.innerHTML = '<p class="muted">Failed to load sheet data.</p>';
