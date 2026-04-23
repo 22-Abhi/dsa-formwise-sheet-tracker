@@ -1,0 +1,7 @@
+.git
+.github
+.gitignore
+.idea
+README.md
+build_sheet_data.py
+wrangler.toml
